@@ -1364,224 +1364,224 @@ https://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8
 https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="mtv-U.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-u-us.png?raw=true" tvg-name="mtvU", MTVU
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/MTV_U/index.m3u8
+https://fl1.moveonjoy.com/MTV_U/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="MuchMusic.Network.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/much-ca.png?raw=true" tvg-name="MUCH", MUCH
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/MUCH/index.m3u8
+https://fl1.moveonjoy.com/MUCH/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="National.Geographic.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" tvg-name="National Geographic", NATIONAL GEOGRAPHIC CHANNEL
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/National_Geographic/index.m3u8
+https://fl1.moveonjoy.com/National_Geographic/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="National.Geographic.Wild.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" tvg-name="National Geographic Wild", NATIONAL GEOGRAPHIC WILD
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="NBA.TV.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" tvg-name="NBA TV", NBA TV
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/NBA_TV/index.m3u8
+https://fl1.moveonjoy.com/NBA_TV/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="Golf.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14899_dark_360w_270h.png" tvg-name="NBC Golf", NBC GOLF
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl31.moveonjoy.com/GOLF/index.m3u8
-# http://cord-cutter.net:8080/bn80NG/909467/9806
+https://fl31.moveonjoy.com/GOLF/index.m3u8
+http://cord-cutter.net:8080/bn80NG/909467/9806
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="NewsNation.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/news-nation-us.png?raw=true" tvg-name="NewsNation", NEWSNATION
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/NEWS_NATION/index.m3u8
+https://fl1.moveonjoy.com/NEWS_NATION/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="NFL.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-icon-us.png?raw=true" tvg-name="NFL Network", NFL NETWORK
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
+https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="NFL.RedZone.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" tvg-name="NFL RedZone", NFL REDZONE
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/NFL_RedZone/mpegts
+https://fl1.moveonjoy.com/NFL_RedZone/mpegts
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="NHL.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" tvg-name="NHL Network", NHL NETWORK
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/NHL_NETWORK/index.m3u8
+https://fl1.moveonjoy.com/NHL_NETWORK/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="Nickelodeon.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" tvg-name="NICKELODEON", NICKELODEON
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/NICKELODEON/mpegts
+https://fl1.moveonjoy.com/NICKELODEON/mpegts
 # http://cord-cutter.net:8080/bn80NG/909467/38
 # https://ft.fbcdntv247.cfd/memfs/64e9b01f-1dfc-4708-b9b6-ab6249c25536_output_0.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="Nick.Jr.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" tvg-name="NickJr", NICKJR
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/NICK_JR/index.m3u8
+https://fl1.moveonjoy.com/NICK_JR/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="Nick.Music.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-music-us.png?raw=true" tvg-name="NickMusic USA", NICKMUSIC
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/NICK_MUSIC/index.m3u8
+https://fl1.moveonjoy.com/NICK_MUSIC/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="Nicktoons.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true" tvg-name="NickToons", NICKTOONS
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/NICKTOONS/index.m3u8
+https://fl1.moveonjoy.com/NICKTOONS/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="Oprah.Winfrey.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oprah-winfrey-network-us.png?raw=true" tvg-name="Oprah Winfrey Network", OWN
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/OWN/index.m3u8
+https://fl1.moveonjoy.com/OWN/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="plex.tv.Outside.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outside-tv-us.png?raw=true" tvg-name="OUTSIDE TV", OUTSIDE TV
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/OUTSIDE_TV/index.m3u8
+https://fl1.moveonjoy.com/OUTSIDE_TV/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="Ovation.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ovation-us.png?raw=true" tvg-name="Ovation", OVATION
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Ovation/index.m3u8
+https://fl1.moveonjoy.com/Ovation/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="Oxygen.True.Crime.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-us.png?raw=true" tvg-name="Oxygen True Crime", OXYGEN TRUE CRIME
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/OXYGEN/index.m3u8
+https://fl1.moveonjoy.com/OXYGEN/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="Paramount.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/paramount-network-us.png?raw=true" tvg-name="Paramount Network", PARAMOUNT NETWORK
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="Pursuit.Channel.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pursuit-us.png?raw=true" tvg-name="PURSUIT CHANNEL", PURSUIT CHANNEL
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Pursuit_Channel/index.m3u8
+https://fl1.moveonjoy.com/Pursuit_Channel/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="QVC.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/qvc-us.png" tvg-name="QVC", QVC
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/QVC/index.m3u8
+https://fl1.moveonjoy.com/QVC/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="ReelzChannel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52199_dark_360w_270h.png" tvg-name="ReelzChannel", REELZ CHANNEL
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/REELZ/index.m3u8
+https://fl1.moveonjoy.com/REELZ/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="Revolt.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/revolt-us.png?raw=true" tvg-name="Revolt", REVOLT
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/REVOLT/index.m3u8
+https://fl1.moveonjoy.com/REVOLT/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="SEC.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true" tvg-name="SEC Network", SEC NETWORK
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/SEC_NETWORK/index.m3u8
+https://fl1.moveonjoy.com/SEC_NETWORK/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="Paramount+.with.Showtime.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" tvg-name="Showtime", SHOWTIME
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/SHOWTIME/index.m3u8
+https://fl1.moveonjoy.com/SHOWTIME/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="Showtime.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" tvg-name="Showtime 2", SHOWTIME 2
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8
+https://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="Showtime.Extreme.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-extreme-us.png?raw=true" tvg-name="Showtime Extreme", SHOWTIME EXTREME
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+https://fl1.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="Showtime.Next.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-next-us.png?raw=true" tvg-name="Showtime Next", SHOWTIME NEXT
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+https://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="Showtime.Women.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-women-us.png?raw=true" tvg-name="Showtime Women", SHOWTIME WOMEN
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+https://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="Smithsonian.HD.Network.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/smithsonian-channel-us.png?raw=true" tvg-name="SMITHSONIAN CHANNEL", SMITHSONIAN CHANNEL
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+https://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="Sony.Movie.Channel.HD.us2" tvg-logo="" tvg-name="SONY MOVIE CHANNEL", SONY MOVIE CHANNEL
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+https://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/sny-us.png" tvg-name="SPORTSNET NEW YORK", SPORTSNET NEW YORK
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/SNY/index.m3u8
+https://fl1.moveonjoy.com/SNY/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="Sportsman.Channel.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sportsman-channel-us.png?raw=true" tvg-name="SPORTSMAN CHANNEL", SPORTSMAN CHANNEL
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
+https://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="plex.tv.Stadium.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/stadium-us.png?raw=true" tvg-name="Stadium", STADIUM CHANNEL
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/STADIUM/index.m3u8
+https://fl1.moveonjoy.com/STADIUM/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="Start.TV.Network.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/start-tv-us.png?raw=true" tvg-name="Start TV", START TV
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Start_Tv/index.m3u8
+https://fl1.moveonjoy.com/Start_Tv/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="Starz.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" tvg-name="STARZ (EAST)", STARZ (EAST)
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/STARZ/index.m3u8
+https://fl1.moveonjoy.com/STARZ/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="Starz.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" tvg-name="STARZ WEST", STARZ (WEST)
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/STARZ_WEST/index.m3u8
+https://fl1.moveonjoy.com/STARZ_WEST/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="Starz.Comedy.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-comedy-us.png?raw=true" tvg-name="Starz Comedy", STARS COMEDY
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/STARZ_COMEDY/index.m3u8
+https://fl1.moveonjoy.com/STARZ_COMEDY/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="Starz.Edge.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-edge-us.png?raw=true" tvg-name="Starz Edge", STARS EDGE (WEST)  You ave to timeshift it to west coast time zone.
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/STARZ_EDGE/index.m3u8
+https://fl1.moveonjoy.com/STARZ_EDGE/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="Starz.Encore.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-us.png?raw=true" tvg-name="Starz Encore", STARS ENCORE
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Starz_Encore/index.m3u8
+https://fl1.moveonjoy.com/Starz_Encore/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="Starz.Encore.Action.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-action-us.png?raw=true" tvg-name="Starz Encore Action", STARS ENCORE ACTION
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+https://fl1.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="Starz.Encore.Classic.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-classic-us.png?raw=true" tvg-name="STARZ ENCORE CLASSIC", STARZ ENCORE CLASSIC
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+https://fl1.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="Starz.Encore.Westerns.SD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-westerns-us.png?raw=true" tvg-name="Starz Encore Westerns", STARS ENCORE WESTERNS
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
+https://fl1.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="SundanceTV.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png" tvg-name="SundanceTV", SUNDANCE
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/SUNDANCE/index.m3u8
+https://fl1.moveonjoy.com/SUNDANCE/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="Syfy.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" tvg-name="SYFY", SYFY
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/SYFY/index.m3u8
+https://fl1.moveonjoy.com/SYFY/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="TBS.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" tvg-name="TBS", TBS
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/TBS/index.m3u8
+https://fl1.moveonjoy.com/TBS/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="Turner.Classic.Movies.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" tvg-name="TCM", TCM
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/TCM/index.m3u8
+https://fl1.moveonjoy.com/TCM/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="Tennis.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png" tvg-name="Tennis Channel", TENNIS CHANNEL
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+https://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="TLC.HD.(US).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" tvg-name="TLC", TLC
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/TLC/index.m3u8
+https://fl1.moveonjoy.com/TLC/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="TNT.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" tvg-name="TNT", TNT
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/TNT/index.m3u8
+https://fl1.moveonjoy.com/TNT/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="The.Travel.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true" tvg-name="Travel Channel", TRAVEL CHANNEL
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Travel_Channel/index.m3u8
+https://fl1.moveonjoy.com/Travel_Channel/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="truTV.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tru-tv-us.png?raw=true" tvg-name="TRUTV", TRUTV
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/TRU_TV/index.m3u8
+https://fl1.moveonjoy.com/TRU_TV/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="TV.Land.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tv-land-us.png?raw=true" tvg-name="TVLAND", TVLAND
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/TV_LAND/index.m3u8
+https://fl1.moveonjoy.com/TV_LAND/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="TSN1.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true" tvg-name="TSN 1", TSN 1
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/TSN_1/index.m3u8
+https://fl1.moveonjoy.com/TSN_1/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="TSN2.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" tvg-name="TSN 2", TSN 2
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/TSN_2/index.m3u8
+https://fl1.moveonjoy.com/TSN_2/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="TSN3.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-ca.png?raw=true" tvg-name="TSN 3", TSN 3
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/TSN_3/index.m3u8
+https://fl1.moveonjoy.com/TSN_3/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="TSN4.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true" tvg-name="TSN 4", TSN 4
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/TSN_4/index.m3u8
+https://fl1.moveonjoy.com/TSN_4/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="TSN5.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" tvg-name="TSN 5", TSN 5
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/TSN_5/index.m3u8
+https://fl1.moveonjoy.com/TSN_5/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="TV.ONE.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tv-one-id.png" tvg-name="TVOne", TVONE
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/TV_ONE/index.m3u8
+https://fl1.moveonjoy.com/TV_ONE/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="UPtv.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/up-tv-us.png" tvg-name="UP TV", UP TV 
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/Up_Tv/index.m3u8
+https://fl1.moveonjoy.com/Up_Tv/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="USA.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true", USA NETWORK
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
+https://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
 
 # EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="USA.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true", USA NETWORK
-# https://streamer1.nexgen.bz/USA/index.m3u8
+https://streamer1.nexgen.bz/USA/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="VH1.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" tvg-name="VH1", VH1
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/VH1/index.m3u8
+https://fl1.moveonjoy.com/VH1/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="Vice.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" tvg-name="Vice", VICE
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/VICELAND/index.m3u8
+https://fl1.moveonjoy.com/VICELAND/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="W.Network.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/w-network-ca.png" tvg-name="W NETWORK", W NETWORK
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/W_NETWORK/index.m3u8
+https://fl1.moveonjoy.com/W_NETWORK/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="Willow.Cricket.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/willow-us.png?raw=true" tvg-name="WILLOW CRICKET", WILLOW CRICKET
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8
+https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="The.Weather.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png" tvg-name="Weather Channel", WEATHER CHANNEL
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
+https://fl1.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="WE.tv.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/we-tv-us.png?raw=true" tvg-name="WOMEN ENTERTAINMENT", WOMEN ENTERTAINMENT
 # http://cord-cutter.net:8080/bn80NG/909467/9237
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/WE_TV/mpegts
+https://fl1.moveonjoy.com/WE_TV/mpegts
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="WGN-DT.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/wgn-america-us.png" tvg-name="WGN", WGN
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/WGN/index.m3u8
+https://fl1.moveonjoy.com/WGN/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="World.Fishing.Network.HD.(US).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/world-fishing-network-us.png?raw=true" tvg-name="WORLD FISHING NETWORK", WORLD FISHING NETWORK
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/WORLD_FISHING_NETWORK/mpegts
+https://fl1.moveonjoy.com/WORLD_FISHING_NETWORK/mpegts
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="Pluto.TV.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/wwe-us.png?raw=true" tvg-name="WWE NETWORK", WWE NETWORK
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/WWE/index.m3u8
+https://fl1.moveonjoy.com/WWE/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy Cable" tvg-id="Yes.Network.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" tvg-name="YES Network", YES NETWORK
-https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
+https://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
 
 
 
