@@ -10,15 +10,27 @@ https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgn
 
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/98b6353e84bff14e57e94878f186d32a-thumbnail.jpg" group-title="🏀 Daily NBA Live (Dec 31-Wed)",@9AM Philadelphia 76ers vs. Memphis Grizzlies
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
 https://gg.poocloud.in/memphisgrizzlies/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/f4ae2b877e18a7b6eada3d49c60a0101-thumbnail.jpg" group-title="🏀 Daily NBA Live (Dec 31-Wed)",@10AM Boston Celtics vs. Utah Jazz
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
 https://gg.poocloud.in/utahjazz/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/58be4796a4cffeda7b76d8c8830092aa-thumbnail.jpg" group-title="🏀 Daily NBA Live (Dec 31-Wed)",@11:30AM Detroit Pistons vs. Los Angeles Lakers
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
 https://gg.poocloud.in/losangeleslakers/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/22997a984d271beebf82f778aeb73829-thumbnail.jpg" group-title="🏀 Daily NBA Live (Dec 31-Wed)",@12PM Sacramento Kings vs. LA Clippers
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
 https://gg.poocloud.in/laclippers/index.m3u8
 
 
@@ -27,30 +39,57 @@ https://gg.poocloud.in/laclippers/index.m3u8
 
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 Daily NBA Live (Jan 1-Thu)",@2AM Golden State Warriors vs. Charlotte Hornets
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
 https://gg.poocloud.in/charlottehornets/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 Daily NBA Live (Jan 1-Thu)",@4AM Minnesota Timberwolves vs. Atlanta Hawks
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
 https://gg.poocloud.in/atlantahawks/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 Daily NBA Live (Jan 1-Thu)",@4AM Orlando Magic vs. Indiana Pacers
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
 https://gg.poocloud.in/indianapacers/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 Daily NBA Live (Jan 1-Thu)",@4:30PM Phoenix Suns vs. Cleveland Cavaliers
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
 https://gg.poocloud.in/clevelandcavaliers/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 Daily NBA Live (Jan 1-Thu)",@8AM New Orleans Pelicans vs. Chicago Bulls
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
 https://gg.poocloud.in/chicagobulls/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 Daily NBA Live (Jan 1-Thu)",@8AM New York Knicks vs. San Antonio Spurs
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
 https://gg.poocloud.in/sanantoniospurs/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 Daily NBA Live (Jan 1-Thu)",@8:30AM Denver Nuggets vs. Toronto Raptors
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
 https://gg.poocloud.in/torontoraptors/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 Daily NBA Live (Jan 1-Thu)",@9PM Washington Wizards vs. Milwaukee Bucks
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
 https://gg.poocloud.in/milwaukeebucks/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 Daily NBA Live (Jan 1-Thu)",@9PM Portland Trail Blazers vs. Oklahoma City Thunder
+#EXTVLCOPT:http-origin=https://playembed.top
+#EXTVLCOPT:http-referrer=https://playembed.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0)
 https://gg.poocloud.in/oklahomacitythunder/index.m3u8
 
 
@@ -944,6 +983,57 @@ https://fl1.moveonjoy.com/FL_West_Palm_Beach_NBC/index.m3u8
 
 # ------------------ MoveOnJoy Cable ---------------------------
 
+
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:NO
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-START:TIME-OFFSET=0,PRECISE=YES
+
+#EXTINF:-1 group-title="US Cable Channels" tvg-id="A.and.E.HD.East.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" tvg-name="A&E",A&E
+https://fl1.moveonjoy.com/ANE/index.m3u8?low_latency=1&fast_start=1
+
+#EXTINF:-1 group-title="US Cable Channels" tvg-id="WOLODT1.us@SD",ABC 25 Columbia
+https://fl1.moveonjoy.com/ABC_EAST/index.m3u8?low_latency=1&fast_start=1
+
+#EXTINF:-1 group-title="US Cable Channels" tvg-id="ACC.Network.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" tvg-name="ACC Network",ACC Network
+https://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8?low_latency=1&fast_start=1
+
+#EXTINF:-1 group-title="US Cable Channels" tvg-id="AMC.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/amc-us.png?raw=true" tvg-name="AMC",AMC
+https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8?low_latency=1&fast_start=1
+
+#EXTINF:-1 group-title="US Cable Channels" tvg-id="American.Heroes.Channel.HD.us2" tvg-name="American Heroes Channel",American Heroes Channel
+https://fl1.moveonjoy.com/American_Heroes_Channel/index.m3u8?low_latency=1&fast_start=1
+
+#EXTINF:-1 group-title="US Cable Channels" tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet",Animal Planet
+https://fl1.moveonjoy.com/Animal_Planet/index.m3u8?low_latency=1&fast_start=1
+
+#EXTINF:-1 group-title="US Cable Channels" tvg-id="Antenna.TV.us2" tvg-name="Antenna TV",Antenna TV
+https://fl1.moveonjoy.com/Antenna_TV/index.m3u8?low_latency=1&fast_start=1
+
+#EXTINF:-1 group-title="US Cable Channels" tvg-id="ASPiRE.HD.us2" tvg-name="Aspire",Aspire
+https://fl1.moveonjoy.com/Aspire/index.m3u8?low_latency=1&fast_start=1
+
+#EXTINF:-1 group-title="US Cable Channels" tvg-id="AXSTV.us@SD",AXS TV
+https://fl1.moveonjoy.com/Axs_TV/index.m3u8?low_latency=1&fast_start=1
+
+#EXTINF:-1 group-title="US Cable Channels" tvg-id="FanDuel.TV.us" tvg-name="Bally Sports Arizona",Bally Sports Arizona
+https://fl1.moveonjoy.com/BALLY_SPORTS_ARIZONA/index.m3u8?low_latency=1&fast_start=1
+
+#EXTINF:-1 group-title="US Cable Channels" tvg-id="FanDuel.Sports.Network.Extra.HDTV.DirecTV.(Midwest).us" tvg-name="Bally Sports Midwest",Bally Sports Midwest
+https://fl1.moveonjoy.com/BALLY_SPORTS_MIDWEST/index.m3u8?low_latency=1&fast_start=1
+
+#EXTINF:-1 group-title="US Cable Channels" tvg-id="BBC.America.HD.us2" tvg-name="BBC America",BBC America
+https://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8?low_latency=1&fast_start=1
+
+#EXTINF:-1 group-title="US Cable Channels" tvg-id="BBC.News.(North.America).HD.us2" tvg-name="BBC World News",BBC World News
+https://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8?low_latency=1&fast_start=1
+
+
+
+
+
 #EXTINF:-1 group-title="US Cable Channels" tvg-id="A.and.E.HD.East.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" tvg-name="A&E", A&E
 https://fl1.moveonjoy.com/ANE/mpegts
 
@@ -1238,7 +1328,8 @@ https://fl1.moveonjoy.com/HBO_COMEDY/index.m3u8
 #EXTINF:-1 group-title="US Cable Channels" tvg-id="Movie.Dummy.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" tvg-name="HBO Family", HBO FAMILY
 https://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8
 
-#EXTINF:-1 group-title="US Cable Channels" tvg-id="HBO.Zone.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" tvg-name="HBO Zone", HBO ZONEhttps://fl1.moveonjoy.com/HBO_ZONE/index.m3u8
+#EXTINF:-1 group-title="US Cable Channels" tvg-id="HBO.Zone.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" tvg-name="HBO Zone", HBO ZONE
+https://fl1.moveonjoy.com/HBO_ZONE/index.m3u8
 
 #EXTINF:-1 group-title="US Cable Channels" tvg-id="Home.and.Garden.Television.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" tvg-name="HGTV", HGTV
 https://fl1.moveonjoy.com/HGTV/index.m3u8
