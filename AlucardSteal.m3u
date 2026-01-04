@@ -7,36 +7,6 @@ https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgn
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
 
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 4-Sun)",@6AM Minnesota Timberwolves vs. Miami Heat
-https://gg.poocloud.in/miamiheat/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 4-Sun)",@8:30AM Philadelphia 76ers vs. New York Knicks
-https://gg.poocloud.in/newyorkknicks/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 4-Sun)",@8:30AM Atlanta Hawks vs. Toronto Raptors
-https://gg.poocloud.in/torontoraptors/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 4-Sun)",@9AM Charlotte Hornets vs. Chicago Bulls
-https://gg.poocloud.in/chicagobulls/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 4-Sun)",@9AM Portland Trail Blazers vs. San Antonio Spurs 
-https://gg.poocloud.in/sanantoniospurs/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 4-Sun)",@9:30AM Houston Rockets vs. Dallas Mavericks
-https://gg.poocloud.in/dallasmavericks/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 4-Sun)",@11AM Utah Jazz vs. Golden State Warriors
-https://gg.poocloud.in/goldenstatewarriors/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 4-Sun)",@11:30AM Boston Celtics vs. Los Angeles Clippers
-https://gg.poocloud.in/laclippers/index.m3u8
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live(Jan 5-Mon)",@3AM Detroit Pistons vs. Cleveland Cavaliers
 https://gg.poocloud.in/clevelandcavaliers/index.m3u8
 
@@ -159,6 +129,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-pbb-live-dash-abscbno
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
 https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd
+
+#EXTINF:-1 tvg-id="1093" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126306082.png" group-title="PH HayabusaTV",GMA 7
+https://gsattv.akamaized.net/live/media0/gma7/Fairplay/gma7.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/tv5network/images/8/83/Kapatid_Channel.png" group-title="PH HayabusaTV",Kapatid International (test)
 http://103.244.145.15/live/anita123/anita123/151029.m3u8?token=ShJcU0BbQQNHAAdbVFQGXF9RBgNRBQJRCVtaVVFSUQYGUwZWBwcAW1AbGBpEF0dcWF1vWQIXXlAEU1IFXEgRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
@@ -16414,7 +16387,6 @@ http://vippccjuzfa.top:8080/movie/VIP0161175235073065/ex9565k6ezhb/140148.mkv
 http://vippccjuzfa.top:8080/movie/VIP0161175235073065/ex9565k6ezhb/140149.mkv
 #EXTINF:-1 tvg-id="" tvg-name="XXX: 21 Sextury" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="FOR ADULTS ONLY 18+",XXX: 21 Sextury
 http://vippccjuzfa.top:8080/VIP0161175235073065/ex9565k6ezhb/148669
-
 
 
 
