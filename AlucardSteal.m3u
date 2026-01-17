@@ -7,65 +7,119 @@ https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgn
 
 
 
+
+
 #EXTM3U
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/fa6e5f58424bf40ecf6e3a1b7fc51dc8-thumbnail.jpg" group-title="🏀 NBA Live 1/17(Source 1)",8AM New Orleans Pelicans vs. Indiana Pacers
-https://cdn1.hkfile.cfd/live/cdn1/chunks.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a23448684b06f639cb3a7208d015bf66-thumbnail.jpg" group-title="🏀 NBA Live 1/17(Source 1)",8AM Cleveland Cavaliers vs. Philadelphia 76ers
-https://cdn2.hkfile.cfd/live/cdn2/chunks.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/9ed69e60a903fcabd527968fbf72a2e8-thumbnail.jpg" group-title="🏀 NBA Live 1/17(Source 1)",8:30AM Chicago Bulls vs. Brooklyn Nets
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/d4db501f5c2b9a3debd7c6c8bb7687ad-thumbnail.jpg" group-title="🏀 NBA Live 1/18(Source 1)",6AM Utah Jazz vs. Dallas Mavericks
 https://cdn3.hkfile.cfd/live/cdn3/chunks.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/5db6335b70f97d9fcaf9bc0d7027192e-thumbnail.jpg" group-title="🏀 NBA Live 1/17(Source 1)",8:30AM LA Clippers vs. Toronto Raptors
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/eea125abfc6eff09c1506e96a9a8d8f1-thumbnail.jpg" group-title="🏀 NBA Live 1/18(Source 1)",8:30AM Boston Celtics vs. Atlanta Hawks
 https://cdn4.hkfile.cfd/live/cdn4/chunks.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a9966b2b8bc7a4e41135c579552b1c85-thumbnail.jpg" group-title="🏀 NBA Live 1/17(Source 1)",10:30AM Minnesota Timberwolves vs. Houston Rockets
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/09fd99ec708e9603ef94fd8c1a93e93c-thumbnail.jpg" group-title="🏀 NBA Live 1/18(Source 1)",8:30AM Indiana Pacers vs. Detroit Pistons
 https://cdn5.hkfile.cfd/live/cdn5/chunks.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a44de545b635dd225a2d31ae4f204583-thumbnail.jpg" group-title="🏀 NBA Live 1/17(Source 1)",11AM Washington Wizards vs. Sacramento Kings
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/fde94a318b7f5886295cb9825c91d4a6-thumbnail.jpg" group-title="🏀 NBA Live 1/18(Source 1)",8:30AM Phoenix Suns vs. New York Knicks
 https://cdn6.hkfile.cfd/live/cdn6/chunks.m3u8
 
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/d3fc7dff9c9e6244433fe2a5a78bbd7d-thumbnail.jpg" group-title="🏀 NBA Live 1/18(Source 1)",9AM Oklahoma City Thunder vs. Miami Heat
+https://cdn7.hkfile.cfd/live/cdn7/chunks.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/ffb997d9743617247058c971180485d9-thumbnail.jpg" group-title="🏀 NBA Live 1/18(Source 1)",9AM Minnesota Timberwolves vs. San Antonio Spurs
+https://cdn8.hkfile.cfd/live/cdn8/chunks.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/b0fcf61f1eadb1609d96ca4b99ab01d3-thumbnail.jpg" group-title="🏀 NBA Live 1/18(Source 1)",9:30AM Charlotte Hornets vs. Golden State Warriors
+https://cdn9.hkfile.cfd/live/cdn9/chunks.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/9572d81ff56c0fb1afb9290ad4e36e08-thumbnail.jpg" group-title="🏀 NBA Live 1/18(Source 1)",10AM Washington Wizards vs. Denver Nuggets
+https://cdn10.hkfile.cfd/live/cdn10/chunks.m3u8
+https://cdn10.hkfile.cfd/live/cdn10/playlist.m3u8?expires=1768686126&token=ac5e6c00ad224d4792e6d8d9d4614ece7d6f45cfcb502302be7426a2ce22a4cb
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a192d60ff2b04601b3fbb8cdb77fe0c9-thumbnail.jpg" group-title="🏀 NBA Live 1/18(Source 1)",11AM Los Angeles Lakers vs. Portland Trail Blazers
+https://cdn3.hkfile.cfd/live/cdn3/chunks.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live 1/17(Source 2)",8AM New Orleans Pelicans vs. Indiana Pacers
-https://strm.poocloud.in/secure/LHrXLbeUZdmXhKUVUxUcfbyyoyDvrrER/1768600800/1768625280/indianapacers.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live 1/17(Source 2)",8AM Cleveland Cavaliers vs. Philadelphia 76ers
-https://strm.poocloud.in/secure/xdLISWiNpCJYktDsvclGBkvKDPKRBVhs/1768600800/1768625280/philadelphia76ers.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live 1/17(Source 2)",8:30AM Chicago Bulls vs. Brooklyn Nets
-https://strm.poocloud.in/secure/RYKExQchqodTzhflrokJGMviCYXpzVbF/1768602600/1768627080/brooklynnets.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live 1/17(Source 2)",8:30AM LA Clippers vs. Toronto Raptors
-https://strm.poocloud.in/secure/ZsINLtRfSxfYiAsnAdQSOAtCLfSUcZKE/1768602600/1768627080/torontoraptors.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live 1/17(Source 2)",10:30AM  Minnesota Timberwolves vs. Houston Rockets
-https://strm.poocloud.in/secure/ScmpYUxhiwezIZritwHKggAiQNulLIKx/1768609800/1768634280/houstonrockets.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live 1/17(Source 2)",11AM Washington Wizards vs. Sacramento Kings
-https://strm.poocloud.in/secure/NAMzDQPJqQnbVtmewPevRcIhfhWndeJy/1768611600/1768636080/sacramentokings.m3u8
 
 
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live 1/18(Source 2)",6AM Utah Jazz vs. Dallas Mavericks
+https://strm.poocloud.in/secure/hGgwHCZbEkJnFFwxpjUAOhGreegoPVtI/1768680000/1768704480/dallasmavericks.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live 1/18(Source 2)",8:30AM Boston Celtics vs. Atlanta Hawks
+https://strm.poocloud.in/secure/IynSwCQhmEfWYzltglmHfOSQaOZVaqEA/1768689000/1768713480/atlantahawks.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live 1/18(Source 2)",8:30AM Indiana Pacers vs. Detroit Pistons
+https://strm.poocloud.in/secure/pCITthSbijFqoVrikbQLKhCQAshdeVcj/1768689000/1768713480/detroitpistons.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live 1/18(Source 2)",8:30AM Phoenix Suns vs. New York Knicks
+https://strm.poocloud.in/secure/OudEUdZcLtmGANURQKCfjZlJxazCEBrh/1768689000/1768713480/newyorkknicks.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live 1/18(Source 2)",9AM  Oklahoma City Thunder vs. Miami Heat
+https://strm.poocloud.in/secure/eGVcLVGCPkibraeUhZlByvGBFIqgEKHs/1768690800/1768715280/miamiheat.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live 1/18(Source 2)",9AM Minnesota Timberwolves vs. San Antonio Spurs
+https://strm.poocloud.in/secure/PPGdTJGrbYtReCKSykcoiotHaYfGrWfL/1768690800/1768715280/sanantoniospurs.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live 1/18(Source 2)",9:30AM Charlotte Hornets vs. Golden State Warriors
+https://strm.poocloud.in/secure/bYlKvAlDShyEfZfJDjkgAQBXGeqVqOfj/1768692600/1768717080/goldenstatewarriors.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live 1/18(Source 2)",10AM  Washington Wizards vs. Denver Nuggets
+https://strm.poocloud.in/secure/cEcNjhuIlEzaIhIGIwJLezTkMlXlNTiG/1768694400/1768718880/denvernuggets.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="🏀 NBA Live 1/18(Source 2)",11AM Los Angeles Lakers vs. Portland Trail Blazers
+https://strm.poocloud.in/secure/cPfCofCsiczmkCBmNmqFrASUcCiMhhlf/1768698000/1768722480/portlandtrailblazers.m3u8
 
 
 
-#EXTINF:-1 group-title="🏀 NBA Live 1/17(Source 3)",8AM Cleveland Cavaliers @ Philadelphia 76ers
-https://v16.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=7-H9q47xirq3uWlkkzmGhw&expires=1768603561&user_id=SVFEWHZBWEVySEFIYThXNkFhcURleUxDalk0YVFBNGl6NGV2MDN3dg==
-#EXTINF:-1 group-title="🏀 NBA Live 1/17(Source 3)",8AM New Orleans Pelicans @ Indiana Pacers
-https://e1.thetvapp.to/hls/NBA01/tracks-v1a1/mono.m3u8?token=IxunaW_7Yh0EzMATyIi27A&expires=1768603571&user_id=SVFEWHZBWEVySEFIYThXNkFhcURleUxDalk0YVFBNGl6NGV2MDN3dg==
-#EXTINF:-1 group-title="🏀 NBA Live 1/17(Source 3)",8:30AM Chicago Bulls @ Brooklyn Nets
-https://v5.thetvapp.to/hls/NBA02/tracks-v1a1/mono.m3u8?token=Qfmm2KeRNJ7r1fRado0IAg&expires=1768603582&user_id=SVFEWHZBWEVySEFIYThXNkFhcURleUxDalk0YVFBNGl6NGV2MDN3dg==
-#EXTINF:-1 group-title="🏀 NBA Live 1/17(Source 3)",8:30AM Los Angeles Clippers @ Toronto Raptors
-https://e4.thetvapp.to/hls/NBA05/tracks-v1a1/mono.m3u8?token=2qFwQqb2VFJHmWnSxvEYfg&expires=1768603592&user_id=SVFEWHZBWEVySEFIYThXNkFhcURleUxDalk0YVFBNGl6NGV2MDN3dg==
-#EXTINF:-1 group-title="🏀 NBA Live 1/17(Source 3)",10:30AM  Minnesota Timberwolves @ Houston Rockets
-https://e3.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=IcO-yB-omvWs-1i0-7UI3w&expires=1768603602&user_id=SVFEWHZBWEVySEFIYThXNkFhcURleUxDalk0YVFBNGl6NGV2MDN3dg==
-#EXTINF:-1 group-title="🏀 NBA Live 1/17(Source 3)",11AM Washington Wizards @ Sacramento Kings
-https://e1.thetvapp.to/hls/NBA06/tracks-v1a1/mono.m3u8?token=IF7oGj3TAnuPpQVQDt1Kbg&expires=1768603612&user_id=SVFEWHZBWEVySEFIYThXNkFhcURleUxDalk0YVFBNGl6NGV2MDN3dg==
 
+#EXTM3U
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Utah Jazz @ Dallas Mavericks - January 18 2026" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Dallas-Mavericks-Logo.svg" group-title="🏀 NBA Live 1/18(Source 3)",Jazz vs Mavericks 6AM
+#EXTVLCOPT:http-origin=https://streamingonembed.pro
+#EXTVLCOPT:http-referrer=https://streamingonembed.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/utah-jazz-vs-dallas-mavericks720p/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Boston Celtics @ Atlanta Hawks - January 18 2026" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Atlanta-Hawks-Logo.svg" group-title="🏀 NBA Live 1/18(Source 3)",Celtics vs Hawks 8:30AM
+#EXTVLCOPT:http-origin=https://streamingonembed.pro
+#EXTVLCOPT:http-referrer=https://streamingonembed.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/boston-celtics-vs-atlanta-hawks720p/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Indiana Pacers @ Detroit Pistons - January 18 2026" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Detroit-Pistons-Logo.svg" group-title="🏀 NBA Live 1/18(Source 3)",Pacers vs Pistons 8:30AM
+#EXTVLCOPT:http-origin=https://streamingonembed.pro
+#EXTVLCOPT:http-referrer=https://streamingonembed.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/indiana-pacers-vs-detroit-pistons720p/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Phoenix Suns @ New York Knicks - January 18 2026" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/New-York-Knicks-Logo.svg" group-title="🏀 NBA Live 1/18(Source 3)",Suns vs Knicks 8:30AM
+#EXTVLCOPT:http-origin=https://streamingonembed.pro
+#EXTVLCOPT:http-referrer=https://streamingonembed.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/phoenix-suns-vs-new-york-knicks720p/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Oklahoma City Thunder @ Miami Heat - January 18 2026" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Miami-Heat-Logo.svg" group-title="🏀 NBA Live 1/18(Source 3)",Thunder vs Heat 9AM
+#EXTVLCOPT:http-origin=https://streamingonembed.pro
+#EXTVLCOPT:http-referrer=https://streamingonembed.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/oklahoma-city-thunder-vs-miami-heat720p/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Minnesota Timberwolves @ San Antonio Spurs - January 18 2026" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/San-Antonio-Spurs-Logo.svg" group-title="🏀 NBA Live 1/18(Source 3)",Timberwolves vs Spurs 9AM
+#EXTVLCOPT:http-origin=https://streamingonembed.pro
+#EXTVLCOPT:http-referrer=https://streamingonembed.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/minnesota-timberwolves-vs-san-antonio-spurs720p/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Charlotte Hornets @ Golden State Warriors - January 18 2026" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Golden-State-Warriors-Logo.svg" group-title="🏀 NBA Live 1/18(Source 3)",Hornets vs Warriors 9:30AM
+#EXTVLCOPT:http-origin=https://streamingonembed.pro
+#EXTVLCOPT:http-referrer=https://streamingonembed.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/charlotte-hornets-vs-golden-state-warriors720p/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Washington Wizards @ Denver Nuggets - January 18 2026" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Denver-Nuggets-Logo.svg" group-title="🏀 NBA Live 1/18(Source 3)",Wizards vs Nuggets - 10AM
+#EXTVLCOPT:http-origin=https://streamingonembed.pro
+#EXTVLCOPT:http-referrer=https://streamingonembed.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/washington-wizards-vs-denver-nuggets720p/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Los Angeles Lakers @ Portland Trail Blazers - January 18 2026" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Portland-Trail-Blazers-Logo.svg" group-title="🏀 NBA Live 1/18(Source 3)",Lakers vs Trail Blazers 11AM
+#EXTVLCOPT:http-origin=https://streamingonembed.pro
+#EXTVLCOPT:http-referrer=https://streamingonembed.pro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://indiasmellsverybad.xyz/live/los-angeles-lakers-vs-portland-trail-blazers720p/index.m3u8
 
 
 
