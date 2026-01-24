@@ -4,22 +4,13 @@ https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgn
 
 
 
-
-
-
-#EXTINF:-1 tvg-logo="https://images.daznservices.com/di/library/DAZN_News/99/e8/jose-tito-sanchez-vs-jesus-ramirez-rubio_185vdh2y3uf371vnpsad80r977.jpg?t=-1828651573" group-title="BOXING Live",8AM Jose Tito Sanchez vs Jesus Ramirez Rubio
-https://cdn10.fkfiles.cfd/live/cdn10/playlist.m3u8?expires=1769211247&token=ed726ad240b582a892ef74619eb5e51e07cf18694487d58e1517f3dd61d938fa
-
-
-
-
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f773164b5cb21e09816087a2de006683-thumbnail.jpg" group-title="COMBATSPORTS Live(Source 1)",6AM Zuffa Boxing 01
 https://cdn1.fkfiles.cfd/live/cdn1/playlist.m3u8?expires=1769208348&token=46b176f96efc1dfab5baff9b8c3daefcac4655a865b4d8bb79380f001da4b750
 
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f773164b5cb21e09816087a2de006683-thumbnail.jpg" group-title="COMBATSPORTS Live(Source 2)",6AM Zuffa Boxing 01
-https://strm.poocloud.in/secure/ONGmoSYoEMBUKFzAIiYffIqNZsAzBMGG/1769200200/1769243400/zuffaboxing/index.m3u8
+https://strm.poocloud.in/secure/ypSDUufchjUpoARgpSyLmddbMqLSzlNj/1769200200/1769243400/zuffaboxing/index.m3u8
 
 
 
@@ -27,28 +18,28 @@ https://strm.poocloud.in/secure/ONGmoSYoEMBUKFzAIiYffIqNZsAzBMGG/1769200200/1769
 
 #EXTM3U
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/e489d068f65f0c81137e3bb2858b2e4d-thumbnail.jpg" group-title="NBA Live (Source 1)",8AM Rockets vs. Pistons
-https://strm.poocloud.in/secure/FLptaNPopGFYmiltxuLGuiWmTpOBqmBS/1769205600/1769230080/detroitpistons/index.m3u8
+https://strm.poocloud.in/secure/jpxkyoivXeuOqzUOucQcVEPqleaRzWRn/1769205600/1769230080/detroitpistons/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/bcbbe4e7ab539b77361022f6a9a08281-thumbnail.jpg" group-title="NBA Live (Source 1)",8:30AM Suns vs. Hawks
-https://strm.poocloud.in/secure/rDPXBojzJPnUhPtPCLuKlYskRAqsoQYG/1769207400/1769231880/atlantahawks/index.m3u8
+https://strm.poocloud.in/secure/SymUDTLPiXxFtJTJDAenWMNBRWhUgYvO/1769207400/1769231880/atlantahawks/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/994247f24f4f2584659f5905831cf90c-thumbnail.jpg" group-title="NBA Live (Source 1)",8:30AM Celtics vs. Nets
-https://strm.poocloud.in/secure/aJjGVXTmCOEKadcfTncUYYBBCtPftaYL/1769207400/1769231880/brooklynnets/index.m3u8
+https://strm.poocloud.in/secure/mDLJtAwvnXjTMaIrGQJUxPTawlVCgufW/1769207400/1769231880/brooklynnets/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/381352b328015f92229dcf4e5174d2a0-thumbnail.jpg" group-title="NBA Live (Source 1)",8:30AM Kings vs. Cavaliers
-https://strm.poocloud.in/secure/WYoFLtoSbWbpBtHklcChXKYVvBudMjLt/1769207400/1769231880/clevelandcavaliers/index.m3u8
+https://strm.poocloud.in/secure/mGLWuCYmZganAwRhrJHqrbfpWlWPqTnh/1769207400/1769231880/clevelandcavaliers/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/407e00c5fdb53ef59e1d1e62c7d53767-thumbnail.jpg" group-title="NBA Live (Source 1)",9AM Pelicans vs. Grizzlies
-https://strm.poocloud.in/secure/TpPRabXkWuBhWdALlikQZctlTjdEmXns/1769209200/1769233680/memphisgrizzlies/index.m3u8
+https://strm.poocloud.in/secure/QCrWLjLVqUnUTJoAIEmyCTMeEixiHxvo/1769209200/1769233680/memphisgrizzlies/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/c9fefb3794c8978abde6f7c6bbb4b0ab-thumbnail.jpg" group-title="NBA Live (Source 1)",9AM Pacers vs. Thunder
-https://strm.poocloud.in/secure/nPDKsDRFqXuKtKVwVgueWlFugNKywXCl/1769209200/1769233680/oklahomacitythunder/index.m3u8
+https://strm.poocloud.in/secure/KzSWGuhGTJoMkLRhzjrITiFFoyYYGoAs/1769209200/1769233680/oklahomacitythunder/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/abba04ba4e0206a38e00433707796721-thumbnail.jpg" group-title="NBA Live (Source 1)",10:30AM Nuggets vs. Bucks
-https://strm.poocloud.in/secure/KnXWyKMKnHpqvXcAUPMfPUnqoGpETtjt/1769214600/1769239080/milwaukeebucks/index.m3u8
+https://strm.poocloud.in/secure/agMfkenRcWUxjmdXZmCtEqdTBvswhjJd/1769214600/1769239080/milwaukeebucks/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/043db004a5ee594f0c3940b7d58cf4ca-thumbnail.jpg" group-title="NBA Live (Source 1)",11AM Raptors vs. Blazers
-https://strm.poocloud.in/secure/xDZRkjwdfbyrNmUnYXGhuPwyKYcnqcvf/1769216400/1769240880/portlandtrailblazers/index.m3u8
+https://strm.poocloud.in/secure/HqKAAGbMvIFoyNSEDGYnkZDRnvsdfoPc/1769216400/1769240880/portlandtrailblazers/index.m3u8
 
 
 
@@ -3851,6 +3842,7 @@ http://vippccjuzfa.top:8080/movie/VIP0161175235073065/ex9565k6ezhb/140148.mkv
 http://vippccjuzfa.top:8080/movie/VIP0161175235073065/ex9565k6ezhb/140149.mkv
 #EXTINF:-1 tvg-id="" tvg-name="XXX: 21 Sextury" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="FOR ADULTS ONLY 18+",XXX: 21 Sextury
 http://vippccjuzfa.top:8080/VIP0161175235073065/ex9565k6ezhb/148669
+
 
 
 
