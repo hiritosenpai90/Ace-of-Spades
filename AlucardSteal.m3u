@@ -31,19 +31,19 @@ https://cdn11.ckfiles.cfd/live/cdn11/playlist.m3u8?expires=1769901380&token=db3b
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/965b6fc4bb4e86b7e162254867bc8d15-thumbnail.jpg" group-title="Combat Sports Live(Feb1)",8AM Hawks vs Pacers
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/965b6fc4bb4e86b7e162254867bc8d15-thumbnail.jpg" group-title="NBA Live Feb1(S1)",8AM Hawks vs Pacers
 https://cdn12.ckfiles.cfd/live/cdn12/playlist.m3u8?expires=1769902392&token=66714c803f82ccd9e0d7f2517706e2776fe6775de8b26b9fe4d9843eeba4c2c9
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/995cbc954e565a147b296a66fd7630a4-thumbnail.jpg" group-title="Combat Sports Live(Feb1)",8:30AM Pelicans vs 76ers
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/995cbc954e565a147b296a66fd7630a4-thumbnail.jpg" group-title="NBA Live Feb1(S1)",8:30AM Pelicans vs 76ers
 https://cdn13.ckfiles.cfd/live/cdn13/playlist.m3u8?expires=1769902429&token=68ea99deba4352656b17d5d557c79a6658cd1a76d78fd4fb35070f3cd55024cc
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/b6da79b4e8c2df76056dcb05044a5450-thumbnail.jpg" group-title="Combat Sports Live(Feb1)",9AM Bulls vs Heat
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/b6da79b4e8c2df76056dcb05044a5450-thumbnail.jpg" group-title="NBA Live Feb1(S1)",9AM Bulls vs Heat
 https://cdn15.ckfiles.cfd/live/cdn15/playlist.m3u8?expires=1769902475&token=77b5cf1d81393b9453ec25db1619a963040ecc563d2203f9125c1646e0f19e3c
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/b5241ce802611302e42852add0bf6f80-thumbnail.jpg" group-title="Combat Sports Live(Feb1)",9AM Timberwolves vs Grizzlies
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/b5241ce802611302e42852add0bf6f80-thumbnail.jpg" group-title="NBA Live Feb1(S1)",9AM Timberwolves vs Grizzlies
 https://cdn14.ckfiles.cfd/live/cdn14/playlist.m3u8?expires=1769902445&token=a760b49518e7b7f74a29abe105f522b4c4ca5d52c10544bf3b478fa36004c1ce
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/2eff3d641f65102abd0615a9cf5cdc39-thumbnail.jpg" group-title="Combat Sports Live(Feb1)",9:30AM Mavericks vs Rockets
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/2eff3d641f65102abd0615a9cf5cdc39-thumbnail.jpg" group-title="NBA Live Feb1(S1)",9:30AM Mavericks vs Rockets
 https://cdn10.ckfiles.cfd/live/cdn10/playlist.m3u8?expires=1769902505&token=bdddcde893113cbfb17d7e23b9313adf302220353590a022b8a7e596a2de98ef
 
 
