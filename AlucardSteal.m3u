@@ -12,11 +12,13 @@ https://cdn10.ckfiles.cfd/live/cdn10/playlist.m3u8?expires=1769901472&token=2b3d
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/49ff6d9c50f12a66e31590661fa2ff8a-thumbnail.jpg" group-title="Combat Sports Live(Feb1)",UFC 325: Volkanovski vs. Lopes 2
 https://cdn2.ckfiles.cfd/live/cdn2/playlist.m3u8?expires=1769901357&token=4fc6b135b365adf3195269d56f998d935ee1d99a8cb991b6e365ba762cb82245
 
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/49ff6d9c50f12a66e31590661fa2ff8a-thumbnail.jpg" group-title="Combat Sports Live(Feb1)",UFC 325: Volkanovski vs. Lopes 2 (S2)
+https://strm.poocloud.in/secure/SsOAtfwoJMEggAIvtzLhKKMozIhcCrVE/1769886000/1769940000/ufc/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/67c090f1b8ba28977641444966cb44e3-thumbnail.jpg" group-title="Combat Sports Live(Feb1)",RING 6: Teofimo vs. Stevenson
 https://cdn9.ckfiles.cfd/live/cdn9/playlist.m3u8?expires=1769901370&token=c596a8cb1c2007dba46e149d79734534787d0141f93525f2d4a5e67ef9e666eb
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/67c090f1b8ba28977641444966cb44e3-thumbnail.jpg" group-title="Combat Sports Live(Feb1)",RING 6: Teofimo vs. Stevenson (S2)
-https://strm.poocloud.in/secure/kojbIAHnwpXAXfvCMXUCkYMiOfPbNwyy/1769889600/1769936400/daznppv/index.m3u8
+https://strm.poocloud.in/secure/oDQBjiCNXuKOXbqzNDugImdUiCuIBJek/1769889600/1769936400/daznppv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thesun.co.uk/wp-content/uploads/2026/01/image_a94d9c.png?w=962" group-title="Combat Sports Live(Feb1)",Francesca Hennessy vs. Ellie Bouttell
 https://cdn7.ckfiles.cfd/live/cdn7/playlist.m3u8?expires=1769901698&token=37bfc8dfdb8d48581fb8c73ca4c5b582838788c492b3a001b05f93ca90f24bc2
@@ -58,21 +60,17 @@ https://cdn10.ckfiles.cfd/live/cdn10/playlist.m3u8?expires=1769902505&token=bddd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="NBA Live Feb1(S2)",UPDATE NOTICE IF IT STOPS PLAYING
 https://drive.usercontent.google.com/download?id=1JcMqZxZLoKWyqvUo4J8tcV4nE3CNkcKH&export=download&authuser=N
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/965b6fc4bb4e86b7e162254867bc8d15-thumbnail.jpg" group-title="NBA Live Feb1(S2)",8AM Hawks vs Pacers
-https://strm.poocloud.in/secure/UvZtczVvllCMpTIntlwIDbFkEZJSwxTp/1769893200/1769921280/indianapacers/index.m3u8
-
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/995cbc954e565a147b296a66fd7630a4-thumbnail.jpg" group-title="NBA Live Feb1(S2)",8:30AM Pelicans vs 76ers
-https://strm.poocloud.in/secure/SUAIaiBmuDLGHtznAxtTbcGbWACQzMXW/1769895000/1769923080/philadelphia76ers/index.m3u8
+https://strm.poocloud.in/secure/HtMVtsZEBPvmhzHlXTXPkeslZTAffHsu/1769895000/1769923080/philadelphia76ers/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/b6da79b4e8c2df76056dcb05044a5450-thumbnail.jpg" group-title="NBA Live Feb1(S2)",9AM Bulls vs Heat
-https://strm.poocloud.in/secure/ErrhCXfMYNeZiwJrRmzWzNMQzepbaQSs/1769896800/1769924880/miamiheat/index.m3u8
+https://strm.poocloud.in/secure/ImVOqFVrAGAfKiEkqUAeGtDGoQyMwLtx/1769896800/1769924880/miamiheat/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/b5241ce802611302e42852add0bf6f80-thumbnail.jpg" group-title="NBA Live Feb1(S2)",9AM Timberwolves vs Grizzlies
-https://strm.poocloud.in/secure/VyLSxGArVmOBckeCYtElPorkhSYIjoQZ/1769896800/1769924880/memphisgrizzlies/index.m3u8
+https://strm.poocloud.in/secure/ZNAVvjcvJlcERGFJtNhHQlATQryKhRfk/1769896800/1769924880/memphisgrizzlies/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/2eff3d641f65102abd0615a9cf5cdc39-thumbnail.jpg" group-title="NBA Live Feb1(S2)",9:30AM Mavericks vs Rockets
-https://strm.poocloud.in/secure/YuuGGIsKCvsqSYkLkHoBxvyyQMQvTtbw/1769898600/1769926680/houstonrockets/index.m3u8
-
+https://strm.poocloud.in/secure/lpBpGZqdjvHPQGZKEGTuUdhZnSkvuYMU/1769898600/1769926680/houstonrockets/index.m3u8
 
 
 
@@ -3843,6 +3841,7 @@ http://vippccjuzfa.top:8080/movie/VIP0161175235073065/ex9565k6ezhb/140148.mkv
 http://vippccjuzfa.top:8080/movie/VIP0161175235073065/ex9565k6ezhb/140149.mkv
 #EXTINF:-1 tvg-id="" tvg-name="XXX: 21 Sextury" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="FOR ADULTS ONLY 18+",XXX: 21 Sextury
 http://vippccjuzfa.top:8080/VIP0161175235073065/ex9565k6ezhb/148669
+
 
 
 
