@@ -12,6 +12,9 @@ https://cdn10.ckfiles.cfd/live/cdn10/playlist.m3u8?expires=1769901472&token=2b3d
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/49ff6d9c50f12a66e31590661fa2ff8a-thumbnail.jpg" group-title="Combat Sports Live(Feb1)",UFC 325: Volkanovski vs. Lopes 2
 https://cdn2.ckfiles.cfd/live/cdn2/playlist.m3u8?expires=1769901357&token=4fc6b135b365adf3195269d56f998d935ee1d99a8cb991b6e365ba762cb82245
 
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/49ff6d9c50f12a66e31590661fa2ff8a-thumbnail.jpg" group-title="Combat Sports Live(Feb1)",UFC 325: Volkanovski vs. Lopes 2 (S2)
+https://strm.poocloud.in/secure/kojbIAHnwpXAXfvCMXUCkYMiOfPbNwyy/1769889600/1769936400/daznppv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/67c090f1b8ba28977641444966cb44e3-thumbnail.jpg" group-title="Combat Sports Live(Feb1)",RING 6: Teofimo vs. Stevenson
 https://cdn9.ckfiles.cfd/live/cdn9/playlist.m3u8?expires=1769901370&token=c596a8cb1c2007dba46e149d79734534787d0141f93525f2d4a5e67ef9e666eb
 
@@ -69,6 +72,7 @@ https://strm.poocloud.in/secure/VyLSxGArVmOBckeCYtElPorkhSYIjoQZ/1769896800/1769
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/2eff3d641f65102abd0615a9cf5cdc39-thumbnail.jpg" group-title="NBA Live Feb1(S2)",9:30AM Mavericks vs Rockets
 https://strm.poocloud.in/secure/YuuGGIsKCvsqSYkLkHoBxvyyQMQvTtbw/1769898600/1769926680/houstonrockets/index.m3u8
+
 
 
 
