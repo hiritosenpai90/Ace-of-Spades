@@ -6,33 +6,38 @@ https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgn
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a015c8c826a8aeafc6d800292693d252-thumbnail.jpg" group-title="NBA Live Feb13(S1)",8:30AM Bucks vs Thunder
-https://cdn1.ncfiles.cfd/live/cdn1/playlist.m3u8?expires=1770942387&token=ce17255a2ab8a412f5d8841e0540adcc7f9a2165fcdc2eeec2b1b0e4c395ed45
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/525b9d573222c6876d78051c047a9dba-thumbnail.jpg" group-title="NBA Live Feb14(S1)",8AM 2026 NBA All-Star Celebrity Game
+https://cdn1.ncfiles.cfd/live/cdn1/playlist.m3u8?expires=1771026483&token=bdaede431aaefe1a9e1a0245951fc18f2eda4498c2d2452339ecfca8bf3a8a3b
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/2a1e858cf3f66c06654c299bef72bea0-thumbnail.jpg" group-title="NBA Live Feb13(S1)",10AM Trail Blazers vs Jazz
-https://cdn2.ncfiles.cfd/live/cdn2/playlist.m3u8?expires=1770942059&token=560bfa72ee397e24835064b23e56397bff49ccf50a8eb81f9b97021d3a19e118
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/4fafe3e90e2ee4108dafb05712edcc22-thumbnail.jpg" group-title="NBA Live Feb14(S1)",10AM 2026 NBA Rising Stars Challenge
+https://cdn2.ncfiles.cfd/live/cdn2/playlist.m3u8?expires=1771026499&token=960e134d84579e28a2e6c4174f23367e2a650c0d4f1b0d390a4466370e47ca9b
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/fdb799fee1978eadd5793ba9bf98505d-thumbnail.jpg" group-title="NBA Live Feb13(S1)",11AM Mavericks vs Lakers
-https://cdn3.ncfiles.cfd/live/cdn3/playlist.m3u8?expires=1770944449&token=5e723ce19ea037dd8769beb0bc673a6f1eed83a31466b51a8410d30a8cc1f5ff
 
 
 
 
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="NBA Live Feb13(S2)",(REUPDATE at 10AM)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="NBA Live Feb14(S2)",(REUPDATE at 10AM)
 https://drive.usercontent.google.com/download?id=1JcMqZxZLoKWyqvUo4J8tcV4nE3CNkcKH&export=download&authuser=N
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a015c8c826a8aeafc6d800292693d252-thumbnail.jpg" group-title="NBA Live Feb13(S2)",8:30AM Bucks vs Thunder
-https://ortdruuckehagkdtgwevu.poocloud.in/secure/QkvazDzGLEtZKUqyvDsqsMHfuzFDxGkz/1770931800/1770959880/oklahomacitythunder/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/525b9d573222c6876d78051c047a9dba-thumbnail.jpg" group-title="NBA Live Feb14(S2)",8AM 2026 All-Star Celebrity Game
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/MAJmTZsyKQslFGRPPZpVSlWtYYlOvOya/1771016400/1771045200/ESPN/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/2a1e858cf3f66c06654c299bef72bea0-thumbnail.jpg" group-title="NBA Live Feb13(S2)",10AM Trail Blazers vs Jazz
-https://ortdruuckehagkdtgwevu.poocloud.in/secure/IbCqApIoCKfvDZazmZaVqFntRhCtuPUf/1770937200/1770965280/utahjazz/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/943abdacab306761d560fba15b2cc27a-thumbnail.jpg" group-title="NBA Live Feb14(S2)",9AM Michigan State Spartans vs. Wisconsin Badgers
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/UYilluUsInJuLIDQwNqsdbUadjAQWsyJ/1771020000/1771050600/FOX/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/fdb799fee1978eadd5793ba9bf98505d-thumbnail.jpg" group-title="NBA Live Feb13(S2)",11AM Mavericks vs Lakers
-https://ortdruuckehagkdtgwevu.poocloud.in/secure/aKspRDXjZjBfSaqumCDrkVjBtznkmzHa/1770940800/1770968880/losangeleslakers/index.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/55e659fdb67357e1d00cacf2f87873ba-thumbnail.jpg" group-title="NBA Live Feb14(S2)",9:30AM Saint Louis Billikens vs. Loyola Chicago Ramblers
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/gyMblJAruwqdrXRmTFLnjENgOszscNSE/1771021800/1771052400/ESPN2/index.m3u8
 
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/4fafe3e90e2ee4108dafb05712edcc22-thumbnail.jpg" group-title="NBA Live Feb14(S2)",10AM 2026 Rising Stars
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/iVeVsUrjbqisLHkhWXEkBeYQRdiaXcPP/1771023600/1771052400/risingstars/index.m3u8
 
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/d56e62b1e67160731e91688fb762a6e3-thumbnail.jpg" group-title="NBA Live Feb14(S2)",10AM Ohio Bobcats vs. Miami (OH) RedHawks
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/GWzpIynNjoapcTWWxFbjilFbWgmchbGu/1771023600/1771054200/ESPN/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/179b49286aa14af091e98cce7af75619-thumbnail.jpg" group-title="NBA Live Feb14(S2)",12AM 2026 HBCU Classic
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/KkPeVbgswroQNnGjQNotOmKMOThglPkl/1771030800/1771059600/hbcu/index.m3u8
 
 
 
@@ -3807,6 +3812,7 @@ http://vippccjuzfa.top:8080/movie/VIP0161175235073065/ex9565k6ezhb/140148.mkv
 http://vippccjuzfa.top:8080/movie/VIP0161175235073065/ex9565k6ezhb/140149.mkv
 #EXTINF:-1 tvg-id="" tvg-name="XXX: 21 Sextury" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="FOR ADULTS ONLY 18+",XXX: 21 Sextury
 http://vippccjuzfa.top:8080/VIP0161175235073065/ex9565k6ezhb/148669
+
 
 
 
