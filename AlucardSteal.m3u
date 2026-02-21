@@ -6,69 +6,36 @@ https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgn
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live Feb21(S1)",8AM Cleveland Cavaliers vs Charlotte Hornets
-https://cdn3.zafiles.cfd/live/cdn3/playlist.m3u8?expires=1771629387&token=a5d33c32e8592667447559716f8fae80d3169931db2625b3035b0bd3a76bf481
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live Feb22(S1)",6AM Orlando Magic vs Phoenix Suns
+https://cdn5.zafiles.cfd/live/cdn5/playlist.m3u8?expires=1771709649&token=19a9f7cb45d941cb678930e12799358b93b04534746a75b6a279faf1a9ab3766
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live Feb21(S1)",8AM Indiana Pacers vs Washington Wizards
-https://cdn1.zafiles.cfd/live/cdn1/playlist.m3u8?expires=1771629404&token=9078686719abc902fef4928697d8b00de6c4ba0b9ff3f9f04270376821d12c01
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live Feb22(S1)",8AM Philadelphia 76ers vs New Orleans Pelicans
+https://cdn6.zafiles.cfd/live/cdn6/playlist.m3u8?expires=1771709675&token=5622e75bf3ad197f82de7e010f89e5c6ede265ec9c3f3008a3a648b28e97c8fd
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live Feb21(S1)",8AM Utah Jazz vs Memphis Grizzlies
-https://cdn2.zafiles.cfd/live/cdn2/playlist.m3u8?expires=1771629427&token=c39d30e485f98cfc6183c3446067a2581d420b29baaa3774c7c13bb8ecefd56c
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live Feb22(S1)",9AM Memphis Grizzlies vs Miami Heat
+https://cdn9.zafiles.cfd/live/cdn9/playlist.m3u8?expires=1771709696&token=9931eaefb501044904b09d76b8dc56f8da9953acc29055f0e3e9c2ca8eec73c3
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live Feb21(S1)",8:30AM Miami Heat vs Atlanta Hawks
-https://cdn5.zafiles.cfd/live/cdn5/playlist.m3u8?expires=1771629441&token=fccb90cfbee9ef917d8adcd63261c71ce8fe5e7daf5b202cc465dd30ca449f28
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live Feb22(S1)",9AM Detroit Pistons vs Chicago Bulls
+https://cdn7.zafiles.cfd/live/cdn7/playlist.m3u8?expires=1771709712&token=7d6891ce753e166162f1a0f6a26ec66fd2f909b4765d3e9bba18f0d26b6b5103
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live Feb21(S1)",8:30AM Dallas Mavericks vs Minnesota Timberwolves
-https://cdn4.zafiles.cfd/live/cdn4/playlist.m3u8?expires=1771629454&token=3acd18e85ca930f3e748156be1d949e405f600c33b2fb565342358bc670b7c30
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live Feb22(S1)",9AM Sacramento Kings vs San Antonio Spurs
+https://cdn8.zafiles.cfd/live/cdn8/playlist.m3u8?expires=1771709728&token=e55557e4d20bacdb3324492d7bd1913d6e0f975d2592a7032b0e21254adf5bbb
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live Feb21(S1)",9AM Milwaukee Bucks vs New Orleans Pelicans
-https://cdn7.zafiles.cfd/live/cdn7/playlist.m3u8?expires=1771629467&token=9803a31b958f15c201bc18a3e978cd883f6d54477004b76b3304a7faf5781e16
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live Feb21(S1)",9AM Brooklyn Nets vs Oklahoma City Thunder
-https://cdn6.zafiles.cfd/live/cdn6/playlist.m3u8?expires=1771629479&token=0d4462bf52c20ec1a811a66c52e49ffb2482ddd5c72ccd39949550c1d3b4bb5c
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live Feb21(S1)",11AM  Los Angeles Clippers vs Los Angeles Lakers
-https://cdn9.zafiles.cfd/live/cdn9/playlist.m3u8?expires=1771629496&token=a6ecd61c3c298750d2accb4960b94324fb7955189df1f308d805a2c7b628e4ea
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live Feb21(S1)",11AM Denver Nuggets vs Portland Trail Blazers
-https://cdn8.zafiles.cfd/live/cdn8/playlist.m3u8?expires=1771629508&token=9af918ec3140895a1a0537da8dc09aca2e42f51052921fe8a2e3a84dee81ba2f
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live Feb22(S1)",9AM Houston Rockets vs New York Knicks
+https://cdn10.zafiles.cfd/live/cdn10/playlist.m3u8?expires=1771709741&token=20fb1a3e97eea32866477e2dc85a3fbcc8830c3d642081e8a626b6422f2c9030
 
 
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8eJZYwHpNP7ePpZN8Y0EXtAC31Q.jpg" group-title="BOXING Live Feb22(S1)",3AM Leigh Wood vs Josh Warrington 2
+https://cdn11.zafiles.cfd/live/cdn11/playlist.m3u8?expires=1771706656&token=86a43c1f1b99dd544f6e2c623c4f20ecf6f0ad10aa189b1b95c589aff6c06f41
+
+#EXTINF:-1 tvg-logo="https://www.boxing247.com/wp-content/uploads/2026/02/garcia-barrios.jpg" group-title="BOXING Live Feb22(S1)",9AM Mario Barrios vs Ryan Garcia
+https://cdn11.zafiles.cfd/live/cdn11/playlist.m3u8?expires=1771708125&token=bb8a5ab92702fb81e3adf44769ebf10be7d07d6313b4bb817bbd183c94623abd
 
 
 
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="NBA Live Feb21(S2)",(REUPDATE at 1PM)
-https://drive.usercontent.google.com/download?id=1JcMqZxZLoKWyqvUo4J8tcV4nE3CNkcKH&export=download&authuser=N
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live Feb21(S2)",8AM Cleveland Cavaliers vs Charlotte Hornets
-https://ortdruuckehagkdtgwevu.modifiles.fans/secure/BqEFkIFFfCHZPtTSKlksmGHbVePCvNyG/1771621200/1771649280/charlottehornets/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live Feb21(S2)",8AM Indiana Pacers vs Washington Wizards
-https://ortdruuckehagkdtgwevu.modifiles.fans/secure/PWKoImDBhZKFSatzcQEwwRfcXyEspQjM/1771621200/1771649280/washingtonwizards/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live Feb21(S2)",8AM Utah Jazz vs Memphis Grizzlies
-https://ortdruuckehagkdtgwevu.modifiles.fans/secure/KRBZcGlikxoIMlkjdYRwVLagNKvcVdiX/1771621200/1771649280/memphisgrizzlies/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live Feb21(S2)",8:30AM Miami Heat vs Atlanta Hawks
-https://ortdruuckehagkdtgwevu.modifiles.fans/secure/nrRiZGFOdIBtipormzyjwSSMvQKdzGKi/1771623000/1771651080/atlantahawks/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live Feb21(S2)",8:30AM Dallas Mavericks vs Minnesota Timberwolves
-https://ortdruuckehagkdtgwevu.modifiles.fans/secure/KNYeZINtroiaBdgGyPjzxGRwYMEBDUFA/1771623000/1771651080/minnesotatimberwolves/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live Feb21(S2)",9AM Milwaukee Bucks vs New Orleans Pelicans
-https://ortdruuckehagkdtgwevu.modifiles.fans/secure/gQZFVklnzIsoPZupIzUADLtWtfqgZBuJ/1771624800/1771652880/neworleanspelicans/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live Feb21(S2)",9AM Brooklyn Nets vs Oklahoma City Thunder
-https://ortdruuckehagkdtgwevu.modifiles.fans/secure/RMjhzLuRLgjINpwkaFpJaTXCyCkehvpa/1771624800/1771652880/oklahomacitythunder/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live Feb21(S2)",11AM  Los Angeles Clippers vs Los Angeles Lakers
-https://ortdruuckehagkdtgwevu.modifiles.fans/secure/aGfybNzwHbWfKqPnZYWTTCItCNJCwUcC/1771632000/1771660080/losangeleslakers/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live Feb21(S2)",11AM Denver Nuggets vs Portland Trail Blazers
-https://ortdruuckehagkdtgwevu.modifiles.fans/secure/rQvmrUrqCQTIDThzNKULWpRRAgfJhEHI/1771632000/1771660080/portlandtrailblazers/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.actumma.com/wp-content/uploads/2026/02/UFC-Fight-Night-267-Comment-Regarder.jpg" group-title="UFC Live Feb22(S1)",6AM UFC Fight Night: Strickland vs. Hernandez
+https://cdn1.zafiles.cfd/live/cdn1/playlist.m3u8?expires=1771707003&token=84dd528af34ffc8c625dd88894761d55dd0088df3d4663ada4a513d03b6704ad
 
 
 
@@ -3845,6 +3812,7 @@ http://vippccjuzfa.top:8080/movie/VIP0161175235073065/ex9565k6ezhb/140148.mkv
 http://vippccjuzfa.top:8080/movie/VIP0161175235073065/ex9565k6ezhb/140149.mkv
 #EXTINF:-1 tvg-id="" tvg-name="XXX: 21 Sextury" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="FOR ADULTS ONLY 18+",XXX: 21 Sextury
 http://vippccjuzfa.top:8080/VIP0161175235073065/ex9565k6ezhb/148669
+
 
 
 
