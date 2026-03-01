@@ -26,6 +26,10 @@ https://cdn9.trrfiles.cfd/live/cdn9/playlist.m3u8?expires=1772303604&token=6ae5a
 
 
 
+
+
+
+
 #EXTINF:-1 tvg-logo="https://assets.izquierdazo.com/__export/1772209403459/sites/izquierdazo/img/2026/02/27/parra-pierce.png_645696950.png" group-title="BOXING Live MAR01(S1)",6AM Elijah Pierce vs Lorenzo Parra
 https://cdn13.trrfiles.cfd/live/cdn13/playlist.m3u8?expires=1772314248&token=0f4ceb8f3405cfd423c0f1fb3bb82676e5d20a39648493edad054f930d091de7
 
@@ -48,7 +52,7 @@ https://cdn12.trrfiles.cfd/live/cdn12/playlist.m3u8?expires=1772314729&token=882
 
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/nba/nba_PNG13.png" group-title="NBA Live MAR01(S2)",REUPDATE SOURCE 2 at 8:30AM
+#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/nba/nba_PNG13.png" group-title="NBA Live MAR01(S2)",REUPDATE SOURCE 2 at 11:30AM
 https://drive.usercontent.google.com/download?id=1JcMqZxZLoKWyqvUo4J8tcV4nE3CNkcKH&export=download&authuser=N
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://pngimg.com/uploads/nba/nba_PNG13.png" group-title="NBA Live MAR01(S2)",2AM Blazers vs Hornets
@@ -58,43 +62,40 @@ https://ortdruuckehagkdtgwevu.modifiles.fans/secure/gyQsoisPirchHgYVPABhXiZINntF
 https://ortdruuckehagkdtgwevu.modifiles.fans/secure/WZaHmdkojYCnIiHyuUcmaiAxgVSQfpmY/1772299800/1772327880/miamiheat/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://pngimg.com/uploads/nba/nba_PNG13.png" group-title="NBA Live MAR01(S2)",8AM Raptors vs Wizards
-https://ortdruuckehagkdtgwevu.modifiles.fans/secure/lqnYYLPUQshJrzmWkVexYutxpbqXDDOa/1772312400/1772340480/washingtonwizards/index.m3u8
+https://ortdruuckehagkdtgwevu.modifiles.fans/secure/TdzhEuTEBNIRxMwFGNieDBdvKhtCNDyO/1772312400/1772340480/washingtonwizards/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://pngimg.com/uploads/nba/nba_PNG13.png" group-title="NBA Live MAR01(S2)",9:30AM Lakers vs Warriors
-https://ortdruuckehagkdtgwevu.modifiles.fans/secure/iXRsWTKWKwtZpyQrHldleMSKrwjBgLZI/1772317800/1772345880/goldenstatewarriors/index.m3u8
+https://ortdruuckehagkdtgwevu.modifiles.fans/secure/hVSasTECJkZZEPKwMjqURlLQKgTHyPVx/1772317800/1772345880/goldenstatewarriors/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://pngimg.com/uploads/nba/nba_PNG13.png" group-title="NBA Live MAR01(S2)",10:30AM Pelicans vs Jazz
-https://ortdruuckehagkdtgwevu.modifiles.fans/secure/nKbUihnfRbrqMYfUgnVNZcBHJJLFBWkK/1772321400/1772349480/utahjazz/index.m3u8
+https://ortdruuckehagkdtgwevu.modifiles.fans/secure/bzjFOPjFyAsfcegcHWdPoGGfsoQnYbBT/1772321400/1772349480/utahjazz/index.m3u8
 
 
 
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="AMERICAN FOOTBALL Live MAR01(S2)",NFL Network
-https://ortdruuckehagkdtgwevu.modifiles.fans/secure/ytdzhjCyojXnRgYSaxpUKaEpRSOOrDvl/0/1772401488/NFLN/index.m3u8
+https://ortdruuckehagkdtgwevu.modifiles.fans/secure/adjQujBQsnxwJujzYGnDCQNzcrGQZAeE/0/1772411695/NFLN/index.m3u8
+
 
 
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a4e0557c24c2d39f3374f62ba9ef30d2-thumbnail.jpg" group-title="BOXING Live MAR01(S2)",9AM Emanuel Navarrete vs Eduardo Nunez
-https://ortdruuckehagkdtgwevu.modifiles.fans/secure/iBnjPzaXEtqaynrrfFKZbAzAHJhbouGA/1772316000/1772355600/daznboxing/index.m3u8
+https://ortdruuckehagkdtgwevu.modifiles.fans/secure/uKVAJUzpotlOMEbzxGLSigVYXKjExjkz/1772316000/1772355600/daznboxing/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/79b8899f730bb885b29f028fe4dc1625-thumbnail.jpg" group-title="UFC Live MAR01(S2)",6AM UFC Fight Night: Moreno vs. Kavanagh (Prelims)
-https://ortdruuckehagkdtgwevu.modifiles.fans/secure/vwQruKgpohDYbeWxSKOaiswGYmGwPhwm/1772305200/1772334000/ufc-prelims/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/79b8899f730bb885b29f028fe4dc1625-thumbnail.jpg" group-title="UFC Live MAR01(S2)",9AM UFC Fight Night: Moreno vs. Kavanagh (Main Card)
-https://ortdruuckehagkdtgwevu.modifiles.fans/secure/mdpefBLZjLZJaxYbWZLhyHNUvSnljIhG/1772316000/1772355600/ufc/index.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/79b8899f730bb885b29f028fe4dc1625-thumbnail.jpg" group-title="UFC Live MAR01(S2)",9AM UFC Fight Night: Moreno vs. Kavanagh
+https://ortdruuckehagkdtgwevu.modifiles.fans/secure/iayWUYagBplLrBSdsjCyuNgqAczicoCt/1772305200/1772355600/ufc/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/da65cf846c8ba3a3c919c4c6a7ab87a4-thumbnail.jpg" group-title="UFC Live MAR01(S2)",10AM RAF 06: Cejudo vs. Faber
-https://ortdruuckehagkdtgwevu.modifiles.fans/secure/WRABhVFLEFHHtDRTAUeHkwRNojFXGDAT/1772319600/1772352000/raf/index.m3u8
+https://ortdruuckehagkdtgwevu.modifiles.fans/secure/nTVxaEKnZDwyJCWyjeCZCVqpAlZBVHIy/1772319600/1772352000/raf/index.m3u8
 
 
 
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5cb98abe50033eef9697459d7319a2b7-thumbnail.jpg" group-title="WRESTLING Live MAR01(S2)",8AM WWE: Elimination Chamber
-https://ortdruuckehagkdtgwevu.modifiles.fans/secure/COrcRryQWpNUHErzkcexytVsOLzXCIUk/1772312400/1772344800/wwe/index.m3u8
+https://ortdruuckehagkdtgwevu.modifiles.fans/secure/jLFWCdRXDVzluPRaAAPtCpDUpRQbXYdZ/1772312400/1772344800/wwe/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="WRESTLING Live MAR01(S2)",9AM AEW: Saturday Night Collision
-https://ortdruuckehagkdtgwevu.modifiles.fans/secure/JtBgNRayLLNttQILATvjxxcztfCijbMZ/1772316000/1772344800/wrestling/index.m3u8
-
+https://ortdruuckehagkdtgwevu.modifiles.fans/secure/wYllOfbGbMnEPmQrBWMFwSgcjMWYcckF/1772316000/1772344800/wrestling/index.m3u8
 
 
 
@@ -3872,6 +3873,7 @@ http://vippccjuzfa.top:8080/movie/VIP0161175235073065/ex9565k6ezhb/140148.mkv
 http://vippccjuzfa.top:8080/movie/VIP0161175235073065/ex9565k6ezhb/140149.mkv
 #EXTINF:-1 tvg-id="" tvg-name="XXX: 21 Sextury" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="FOR ADULTS ONLY 18+",XXX: 21 Sextury
 http://vippccjuzfa.top:8080/VIP0161175235073065/ex9565k6ezhb/148669
+
 
 
 
