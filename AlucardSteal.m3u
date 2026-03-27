@@ -7,8 +7,28 @@ https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgn
 
 
 #EXTM3U
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD MAR27(S1)",7AM New York Knicks vs Charlotte Hornets
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://cdn3.tkfiles.cfd/live/cdn3/chunks.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD MAR27(S1)",7AM New Orleans Pelicans vs Detroit Pistons
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://cdn2.tkfiles.cfd/live/cdn2/chunks.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD MAR27(S1)",7AM Sacramento Kings vs Orlando Magic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://cdn1.tkfiles.cfd/live/cdn1/chunks.m3u8
+
+
+
+
+
+#EXTM3U
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live HD MAR27(S2)",7AM New York Knicks vs Charlotte Hornets
-https://601.simplyataide.boutique/nba.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://daffodil.premiumjh.shop/nba.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live HD MAR27(S2)",7AM New Orleans Pelicans vs Detroit Pistons
 https://daffodil.simplyataide.boutique/nba2.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
@@ -78,7 +98,6 @@ https://daffodil.simplyataide.boutique/finland.m3u8|referer=https://roxiestreams
 
 
 
-
 #EXTINF:-1 tvg-logo="https://blob.iihf.com/iihf-media/iihfmvc/media/contentimages/news/2024_02_iihf_olympics_website_notext_02.jpg" group-title="ICE HOCKEY MAR27",7AM Columbus Blue Jackets vs Montreal Canadiens
 https://601.premiumjh.shop/nhl.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 
@@ -124,10 +143,10 @@ https://601.premiumjh.shop/nhl13.m3u8|referer=https://roxiestreams.info/&origin=
 
 
 
-#EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0124%2Ffan_2026_fantasy_baseball_draft_kit_5x2.jpg&w=1320&h=528&scale=crop&cquality=40&location=center&format=jpg" group-title="MOTORSPORTS MAR27",8:30AM Arizona Diamondbacks vs Los Angeles Dodgers
+#EXTINF:-1 tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL MAR27",8:30AM Arizona Diamondbacks vs Los Angeles Dodgers
 https://601.premiumjh.shop/mlb10.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0124%2Ffan_2026_fantasy_baseball_draft_kit_5x2.jpg&w=1320&h=528&scale=crop&cquality=40&location=center&format=jpg" group-title="MOTORSPORTS MAR27",10:10AM Cleveland Guardians vs Seattle Mariners
+#EXTINF:-1 tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL MAR27",10:10AM Cleveland Guardians vs Seattle Mariners
 https://601.premiumjh.shop/mlb.m3u8|referer=https://roxiestreams.info/&origin=https://roxiestreams.info/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 
 
