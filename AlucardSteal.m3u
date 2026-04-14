@@ -9,9 +9,232 @@ https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgn
 #EXTM3U
 #EXTINF:-1 group-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg"
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c" group-title="NBA Live HD APRIL 14",NO GAME SCHEDULE TODAY
-https://to1.tofiles.cfd/live/knicks/stream.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/77011f350f17bf86e96f89fb8ab13f58-thumbnail.jpg" group-title="NBA Live SD APRIL 15",7:30AM Miami Heat vs Charlotte Hornets
+https://e1.thetvapp.to/hls/nba01/tracks-v1a1/mono.m3u8?token=9Juhpy5mG8_9pcmn8uxERA&expires=1776226200&user_id=QjJuaHJyQ05BNUljY0ZIQlFyYTZUSXk4RU9Nd1hCSnNUQkZOaU5UNg==
 
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/9248724ed63b7e4b681fcdba7f6747ab-thumbnail.jpg" group-title="NBA Live SD APRIL 15",10AM Trail Blazers vs Suns
+https://e3.thetvapp.to/hls/nba02/tracks-v1a1/mono.m3u8?token=u9qOMQqu-Ck0HKYMBxe8jg&expires=1776227706&user_id=QjJuaHJyQ05BNUljY0ZIQlFyYTZUSXk4RU9Nd1hCSnNUQkZOaU5UNg==
+
+
+
+
+
+
+_________________________________________________________________________________________________________________________
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 group-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg"
+
+#EXTM3U
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/77011f350f17bf86e96f89fb8ab13f58-thumbnail.jpg" group-title="NBA Live HD APRIL 15(S1)",7:30AM Miami Heat vs Charlotte Hornets
+https://mb3.tofiles.cfd/live/miami/stream.m3u8?expires=1776204843&token=0d609913384e7a69ce8d7b316409bcfceec1d8008af4ad1ff44b2970b7fa57b8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/9248724ed63b7e4b681fcdba7f6747ab-thumbnail.jpg" group-title="NBA Live HD APRIL 15(S1)",10AM Trail Blazers vs Suns
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://mb4.tofiles.cfd/live/blazer/stream.m3u8
+
+
+
+
+
+_____________________________________________________________________________________________
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 group-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg"
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/77011f350f17bf86e96f89fb8ab13f58-thumbnail.jpg" group-title="NBA Live HD APRIL 15(S2)",7:30AM Miami Heat vs Charlotte Hornets
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://daffodil.underupturnip.net/nba.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/9248724ed63b7e4b681fcdba7f6747ab-thumbnail.jpg" group-title="NBA Live HD APRIL 15(S2)",10AM Trail Blazers vs Suns
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://daffodil.underupturnip.net/nba2.m3u8
+
+
+
+
+
+
+
+_______________________________________________________________________________________________
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-logo="https://cdn.wallpapersafari.com/56/32/tuGicl.jpg"
+
+#EXTINF:-1 tvg-logo="https://cdn.wallpapersafari.com/56/32/tuGicl.jpg" group-title="ICE HOCKEY APRIL 15",7AM New Jersey Devils vs Boston Bruins
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://602.underupturnip.net/nhl.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.wallpapersafari.com/56/32/tuGicl.jpg" group-title="ICE HOCKEY APRIL 15",7AM Carolina Hurricanes vs New York Islanders
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://602.underupturnip.net/nhl2.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.wallpapersafari.com/56/32/tuGicl.jpg" group-title="ICE HOCKEY APRIL 15",7AM Montreal Canadiens vs Philadelphia Flyers
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://602.underupturnip.net/nhl3.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.wallpapersafari.com/56/32/tuGicl.jpg" group-title="ICE HOCKEY APRIL 15",7AM Washington Capitals vs Columbus Blue Jackets
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://602.underupturnip.net/nhl4.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.wallpapersafari.com/56/32/tuGicl.jpg" group-title="ICE HOCKEY APRIL 15",8AM Anaheim Ducks vs Minnesota Wild
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://602.underupturnip.net/nhl5.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.wallpapersafari.com/56/32/tuGicl.jpg" group-title="ICE HOCKEY APRIL 15",9AM Winnipeg Jets vs Utah Mammoth
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://602.underupturnip.net/nhl6.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.wallpapersafari.com/56/32/tuGicl.jpg" group-title="ICE HOCKEY APRIL 15",9AM Colorado Avalanche vs Calgary Flames
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://602.underupturnip.net/nhl7.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.wallpapersafari.com/56/32/tuGicl.jpg" group-title="ICE HOCKEY APRIL 15",9:30AM Pittsburgh Penguins vs St. Louis Blues
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://602.underupturnip.net/nhl8.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.wallpapersafari.com/56/32/tuGicl.jpg" group-title="ICE HOCKEY APRIL 15",10AM Los Angeles Kings vs Vancouver Canucks
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://602.underupturnip.net/nhl9.m3u8
+
+
+
+
+
+
+
+____________________________________________________________________________________________________
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0"
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="SOCCER APRIL 15",6AM Cerro Porteño vs Junior
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://daffodil.underupturnip.net/beines.m3u8
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="SOCCER APRIL 15",6AM Grêmio vs Deportivo Riestra
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://daffodil.underupturnip.net/xtra.m3u8
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="SOCCER APRIL 15",6AM São Paulo vs O'Higgins
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://daffodil.underupturnip.net/sao.m3u8
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="SOCCER APRIL 15",8AM Boca Juniors vs Barcelona SC
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://daffodil.underupturnip.net/beines.m3u8
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="SOCCER APRIL 15",8:30AM Palestino vs Torque
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://daffodil.underupturnip.net/xtra.m3u8
+
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="SOCCER APRIL 15",10AM Universitario vs Coquimbo Unido
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://daffodil.underupturnip.net/beines.m3u8
+
+
+
+
+
+
+
+__________________________________________________________________________________________________________
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 group-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png"
+
+#EXTINF:-1 tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL APRIL 15",10:10AM New York Mets vs Los Angeles Dodgers
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://602.underupturnip.net/mlb15.m3u8
+
+
+
+
+
+
+
+___________________________________________________________________
+
+
+
+
+
+
+
+#EXTINF:-1 group-logo="https://img.freepik.com/vecteurs-premium/logo-du-club-combat_25327-177.jpg"
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="COMBAT SPORTS APRIL 15",8AM WWE NXT
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://602.underupturnip.net/wwe.m3u8
 
 
 
