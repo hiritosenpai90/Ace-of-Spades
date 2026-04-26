@@ -8,17 +8,17 @@ https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgn
 
 #EXTM3U x-tvg-url=""
 #EXTINF:-1 group-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true"
-#EXTINF:27 group-title="NBA LIVE APRIL 26" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",1AM Pistons vs Magic
-https://nbalp.djdoolky76.io/stream/nbalp/live/master.m3u8?u=gratisph&p=9b4d4ed26e7e519b6a08a8856b973c0f3a51d0c8fa823ba9114afd58c56a4c08
+#EXTINF:27 group-title="NBA LIVE APRIL 27" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",1AM Cavaliers vs Raptors
+https://nbalp.djdoolky76.io/stream/nbalp/live/master.m3u8?u=gratisph&p=63cf25ef147f4a246999697ffcf17837b0161ad0d193d67abb68ea520d23e6e5
 
-#EXTINF:28 group-title="NBA LIVE APRIL 26" tvg-id="iptv/live2" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",3:30AM Thunder vs Suns
-https://nbalp.djdoolky76.io/stream/nbalp/live2/master.m3u8?u=gratisph&p=9b4d4ed26e7e519b6a08a8856b973c0f3a51d0c8fa823ba9114afd58c56a4c08
+#EXTINF:28 group-title="NBA LIVE APRIL 27" tvg-id="iptv/live2" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",3:30AM Spurs vs Trail Blazers
+https://nbalp.djdoolky76.io/stream/nbalp/live2/master.m3u8?u=gratisph&p=63cf25ef147f4a246999697ffcf17837b0161ad0d193d67abb68ea520d23e6e5
 
-#EXTINF:28 group-title="NBA LIVE APRIL 26" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",6AM Knicks vs Hawks
-https://nbalp.djdoolky76.io/stream/nbalp/live3/master.m3u8?u=gratisph&p=9b4d4ed26e7e519b6a08a8856b973c0f3a51d0c8fa823ba9114afd58c56a4c08
+#EXTINF:28 group-title="NBA LIVE APRIL 27" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",7AM Celtics vs 76ers
+https://nbalp.djdoolky76.io/stream/nbalp/live3/master.m3u8?u=gratisph&p=63cf25ef147f4a246999697ffcf17837b0161ad0d193d67abb68ea520d23e6e5
 
-#EXTINF:29 group-title="NBA LIVE APRIL 26" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",8:30AM Nuggets vs Timberwolves
-https://nbalp.djdoolky76.io/stream/nbalp/live4/master.m3u8?u=gratisph&p=9b4d4ed26e7e519b6a08a8856b973c0f3a51d0c8fa823ba9114afd58c56a4c08
+#EXTINF:29 group-title="NBA LIVE APRIL 27" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",9:30AM Lakers vs Rockets
+https://nbalp.djdoolky76.io/stream/nbalp/live4/master.m3u8?u=gratisph&p=63cf25ef147f4a246999697ffcf17837b0161ad0d193d67abb68ea520d23e6e5
 
 
 
@@ -27,29 +27,61 @@ https://nbalp.djdoolky76.io/stream/nbalp/live4/master.m3u8?u=gratisph&p=9b4d4ed2
 #EXTM3U
 #EXTINF:-1 group-logo="https://cdn.nba.com/manage/2026/04/Playoffs-Logo-16x9-1.jpg"
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://cdn.nba.com/manage/2026/04/Playoffs-Logo-16x9-1.jpg" group-title="NBA Live HD APRIL 26",1AM Pistons vs Magic
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://cdn.nba.com/manage/2026/04/Playoffs-Logo-16x9-1.jpg" group-title="NBA Live HD APRIL 27",1AM Cavaliers vs Raptors
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://602.simpleabigal.xyz/sn.m3u8
+https://602.shoncine.com/sn.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://cdn.nba.com/manage/2026/04/Playoffs-Logo-16x9-1.jpg" group-title="NBA Live HD APRIL 26",3:30AM Thunder vs Suns
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://cdn.nba.com/manage/2026/04/Playoffs-Logo-16x9-1.jpg" group-title="NBA Live HD APRIL 27",3:30AM Spurs vs Trail Blazers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://daffodil.simpleabigal.xyz/nba2.m3u8
+https://daffodil.shoncine.com/nba2.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://cdn.nba.com/manage/2026/04/Playoffs-Logo-16x9-1.jpg" group-title="NBA Live HD APRIL 26",6AM Knicks vs Hawks
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://cdn.nba.com/manage/2026/04/Playoffs-Logo-16x9-1.jpg" group-title="NBA Live HD APRIL 27",7AM Celtics vs 76ers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://daffodil.simpleabigal.xyz/nba2.m3u8
+https://daffodil.shoncine.com/nba2.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://cdn.nba.com/manage/2026/04/Playoffs-Logo-16x9-1.jpg" group-title="NBA Live HD APRIL 26",8:30AM Nuggets vs Timberwolves
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://cdn.nba.com/manage/2026/04/Playoffs-Logo-16x9-1.jpg" group-title="NBA Live HD APRIL 27",9:30AM Lakers vs Rockets
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://daffodil.simpleabigal.xyz/nba2.m3u8
+https://daffodil.shoncine.com/nba2.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 group-logo="https://cdn.nba.com/manage/2025/02/2025-playoffs-logo-google-banner.jpg"
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://cdn.nba.com/manage/2025/02/2025-playoffs-logo-google-banner.jpg" group-title="NBA Live HD APRIL 27(S2)",1AM Cavaliers vs Raptors
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://mp1.mpfiles.cfd/live/raptor/stream.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://cdn.nba.com/manage/2025/02/2025-playoffs-logo-google-banner.jpg" group-title="NBA Live HD APRIL 27(S2)",3:30AM Spurs vs Trail Blazers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://mp2.mpfiles.cfd/live/portland/stream.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://cdn.nba.com/manage/2025/02/2025-playoffs-logo-google-banner.jpg" group-title="NBA Live HD APRIL 27(S2)",7AM Celtics vs 76ers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://mp3.mpfiles.cfd/live/boston/stream.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://cdn.nba.com/manage/2025/02/2025-playoffs-logo-google-banner.jpg" group-title="NBA Live HD APRIL 27(S2)",9:30AM Lakers vs Rockets
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://mp5.mpfiles.cfd/live/housten/stream.m3u8
 
 
 
@@ -64,80 +96,59 @@ https://daffodil.simpleabigal.xyz/nba2.m3u8
 #EXTM3U
 #EXTINF:-1 group-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0"
 
-#EXTINF:-1 tvg-id="LigaMX.Soccer" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="SOCCER APRIL 26",5:30AM Bahia vs Santos
+#EXTINF:-1 tvg-id="LigaMX.Soccer" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="SOCCER APRIL 27",3AM Corinthians vs Vasco Gama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://602.simpleabigal.xyz/fana.m3u8
+https://602.shoncine.com/fana.m3u8
 
-#EXTINF:-1 tvg-id="LigaMX.Soccer" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="SOCCER APRIL 26",5:30AM Botafogo vs Internacional
+#EXTINF:-1 tvg-id="LigaMX.Soccer" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="SOCCER APRIL 27",3AM Villarreal vs Celta Vigo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://602.simpleabigal.xyz/fana2.m3u8
+https://daffodil.shoncine.com/dep.m3u8
 
-#EXTINF:-1 tvg-id="LigaMX.Soccer" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="SOCCER APRIL 26",7AM Pachuca vs Pumas
+#EXTINF:-1 tvg-id="LigaMX.Soccer" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="SOCCER APRIL 27",3AM Grêmio vs Coritiba
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://602.simpleabigal.xyz/tudn.m3u8
+https://602.shoncine.com/fana2.m3u8
 
-#EXTINF:-1 tvg-id="LigaMX.Soccer" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="SOCCER APRIL 26",7AM Tigres UANL vs Mazatlan
+#EXTINF:-1 tvg-id="LigaMX.Soccer" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="SOCCER APRIL 27",3AM Colo Colo vs Univ. Concepción
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://602.simpleabigal.xyz/universo.m3u8
+https://602.shoncine.com/colo.m3u8
 
-#EXTINF:-1 tvg-id="LigaMX.Soccer" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="SOCCER APRIL 26",7:30AM Inter Miami vs New England
+#EXTINF:-1 tvg-id="LigaMX.Soccer" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="SOCCER APRIL 27",5:30AM RB Bragantino vs Palmeiras
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://602.simpleabigal.xyz/mls2.m3u8
+https://602.shoncine.com/fana3.m3u8
 
-#EXTINF:-1 tvg-id="LigaMX.Soccer" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="SOCCER APRIL 26",8AM São Paulo vs Mirassol
+#EXTINF:-1 tvg-id="LigaMX.Soccer" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="SOCCER APRIL 27",7AM Santos Laguna vs Rayados
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://602.simpleabigal.xyz/fana5.m3u8
+https://602.shoncine.com/tudn.m3u8
 
-#EXTINF:-1 tvg-id="LigaMX.Soccer" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="SOCCER APRIL 26",9AM Toluca vs Leon
+#EXTINF:-1 tvg-id="LigaMX.Soccer" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="SOCCER APRIL 27",7AM Atlético Mineiro vs Flamengo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://602.simpleabigal.xyz/tudn.m3u8
+https://602.shoncine.com/fana4.m3u8
 
-#EXTINF:-1 tvg-id="LigaMX.Soccer" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="SOCCER APRIL 26",9:07AM Chivas vs Tijuana
+#EXTINF:-1 tvg-id="LigaMX.Soccer" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="SOCCER APRIL 27",7:30AM Fluminense vs Chapecoense
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://602.simpleabigal.xyz/universo.m3u8
+https://602.shoncine.com/fana5.m3u8
 
-#EXTINF:-1 tvg-id="LigaMX.Soccer" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="SOCCER APRIL 26",11AM América vs Atlas
+#EXTINF:-1 tvg-id="LigaMX.Soccer" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="SOCCER APRIL 27",9AM Cruz Azul vs Necaxa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://602.simpleabigal.xyz/tudn.m3u8
-
-#EXTINF:-1 tvg-id="LigaMX.Soccer" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEZhpXtj30Ivc5GQeJgRoAHaEo?pid=Api&h=220&P=0" group-title="SOCCER APRIL 26",11AM Juárez vs San Luis
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://602.simpleabigal.xyz/universo.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-logo="https://wallpapers.com/images/hd/nfl-football-logo-png-wij-lvik01b992zin47c.png"
-
-#EXTINF:-1 tvg-id="NFL.Network.us" tvg-logo="https://wallpapers.com/images/hd/nfl-football-logo-png-wij-lvik01b992zin47c.png" group-title="AMERICAN FOOTBALL APRIL 26",12:30AM NFL Draft - Day 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://602.simpleabigal.xyz/nfl.m3u8
+https://602.shoncine.com/tudn.m3u8
 
 
 
@@ -149,23 +160,29 @@ https://602.simpleabigal.xyz/nfl.m3u8
 
 #EXTINF:-1 group-logo="https://content.sportslogos.net/logos/1/486/full/vh1rmcgy4kvq66dvxj8rg7hhs.gif"
 
-#EXTINF:-1 tvg-id="NHL.Network.us" tvg-logo="https://content.sportslogos.net/logos/1/486/full/vh1rmcgy4kvq66dvxj8rg7hhs.gif" group-title="ICE HOCKEY APRIL 26",3AM Carolina Hurricanes vs Ottawa Senators
+#EXTINF:-1 tvg-id="NHL.Network.us" tvg-logo="https://content.sportslogos.net/logos/1/486/full/vh1rmcgy4kvq66dvxj8rg7hhs.gif" group-title="ICE HOCKEY APRIL 27",2AM Buffalo Sabres vs Boston Bruins
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://daffodil.simpleabigal.xyz/nhl.m3u8
+https://daffodil.shoncine.com/nhl.m3u8
 
-#EXTINF:-1 tvg-id="NHL.Network.us" tvg-logo="https://content.sportslogos.net/logos/1/486/full/vh1rmcgy4kvq66dvxj8rg7hhs.gif" group-title="ICE HOCKEY APRIL 26",5:30AM Dallas Stars vs Minnesota Wild
+#EXTINF:-1 tvg-id="NHL.Network.us" tvg-logo="https://content.sportslogos.net/logos/1/486/full/vh1rmcgy4kvq66dvxj8rg7hhs.gif" group-title="ICE HOCKEY APRIL 27",4:30AM Colorado Avalanche vs Los Angeles Kings
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://daffodil.simpleabigal.xyz/nhl.m3u8
+https://daffodil.shoncine.com/nhl.m3u8
 
-#EXTINF:-1 tvg-id="NHL.Network.us" tvg-logo="https://content.sportslogos.net/logos/1/486/full/vh1rmcgy4kvq66dvxj8rg7hhs.gif" group-title="ICE HOCKEY APRIL 26",8AM Pittsburgh Penguins vs Philadelphia Flyers
+#EXTINF:-1 tvg-id="NHL.Network.us" tvg-logo="https://content.sportslogos.net/logos/1/486/full/vh1rmcgy4kvq66dvxj8rg7hhs.gif" group-title="ICE HOCKEY APRIL 27",7AM Tampa Bay Lightning vs Montreal Canadiens
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://daffodil.simpleabigal.xyz/nhl.m3u8
+https://daffodil.shoncine.com/nhl.m3u8
+
+#EXTINF:-1 tvg-id="NHL.Network.us" tvg-logo="https://content.sportslogos.net/logos/1/486/full/vh1rmcgy4kvq66dvxj8rg7hhs.gif" group-title="ICE HOCKEY APRIL 27",9:30AM Edmonton Oilers vs Anaheim Ducks
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+https://daffodil.shoncine.com/nhl2.m3u8
 
 
 
@@ -179,53 +196,30 @@ https://daffodil.simpleabigal.xyz/nhl.m3u8
 #EXTM3U
 #EXTINF:-1 group-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png"
 
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL APRIL 26",6:05AM San Diego Padres vs. Arizona Diamondbacks
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL APRIL 27",4:05AM San Diego Padres vs Arizona Diamondbacks
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://602.simpleabigal.xyz/mlb8.m3u8
+https://602.shoncine.com/mlb13.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL APRIL 26",7:05AM Athletics vs. Texas Rangers
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL APRIL 27",4:05AM Miami Marlins vs San Francisco Giants
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://602.simpleabigal.xyz/mlb9.m3u8
+https://602.shoncine.com/mlb14.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL APRIL 26",7:10AM Los Angeles Angels vs. Kansas City Royals
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL APRIL 27",4:10AM Chicago Cubs vs Los Angeles Dodgers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://602.simpleabigal.xyz/mlb10.m3u8
+https://602.shoncine.com/mlb15.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL APRIL 26",7:10AM New York Yankees vs. Houston Astros
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL APRIL 27",7:20AM Los Angeles Angels vs Kansas City Royals
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://602.simpleabigal.xyz/mlb11.m3u8
+https://602.shoncine.com/mlb16.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL APRIL 26",7:10AM Pittsburgh Pirates vs. Milwaukee Brewers
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://602.simpleabigal.xyz/mlb12.m3u8
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL APRIL 26",7:15AM Detroit Tigers vs. Cincinnati Reds
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://602.simpleabigal.xyz/mlb13.m3u8
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL APRIL 26",7:15AM Philadelphia Phillies vs. Atlanta Braves
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://602.simpleabigal.xyz/mlb14.m3u8
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL APRIL 26",7:15AM Chicago Cubs vs. Los Angeles Dodgers
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://602.simpleabigal.xyz/mlb14.m3u8
 
 
 
@@ -239,17 +233,11 @@ https://602.simpleabigal.xyz/mlb14.m3u8
 
 #EXTINF:-1 group-logo="https://img.freepik.com/vecteurs-premium/logo-du-club-combat_25327-177.jpg"
 
-#EXTINF:-1 tvg-id="Combat.Sports" tvg-logo="https://api.ppv.to/assets/thumb/61b473e48d4f520777df5621e025abc8-thumbnail.jpg" group-title="COMBAT SPORTS APRIL 26",5AM UFC Fight Night: Sterling vs. Zalal
+#EXTINF:-1 tvg-id="Combat.Sports" tvg-logo="https://www.pngmart.com/files/23/Wwe-Logo-Transparent-PNG.png" group-title="COMBAT SPORTS APRIL 28",8AM WWE RAW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://daffodil.simpleabigal.xyz/tnt.m3u8
-
-#EXTINF:-1 tvg-id="Combat.Sports" tvg-logo="https://api.ppv.to/assets/thumb/20376611130956c6ffafc045be83d906-thumbnail.jpg" group-title="COMBAT SPORTS APRIL 26",8AM Miller vs Pero
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://602.simpleabigal.xyz/ppv2.m3u8
+https://602.shoncine.com/wwe.m3u8
 
 
 
@@ -264,18 +252,11 @@ https://602.simpleabigal.xyz/ppv2.m3u8
 
 #EXTINF:-1 group-logo="https://images.squarespace-cdn.com/content/v1/619e9d0a3191f4308bcb0206/1703939911077-3MML6GVYOTU8NXV5UGJV/2024+Pfaff+Motorsports_driveway+McLaren+720S+GT3_Lenssen+Photo-_LP66107.jpg"
 
-#EXTINF:-1 tvg-id="Motorsport.tv" tvg-logo="https://images.squarespace-cdn.com/content/v1/619e9d0a3191f4308bcb0206/1703939911077-3MML6GVYOTU8NXV5UGJV/2024+Pfaff+Motorsports_driveway+McLaren+720S+GT3_Lenssen+Photo-_LP66107.jpg" group-title="MOTORSPORTS APRIL 26",4AM NASCAR O'Reilly Auto Parts - Race
+#EXTINF:-1 tvg-id="Motorsport.tv" tvg-logo="https://images.squarespace-cdn.com/content/v1/619e9d0a3191f4308bcb0206/1703939911077-3MML6GVYOTU8NXV5UGJV/2024+Pfaff+Motorsports_driveway+McLaren+720S+GT3_Lenssen+Photo-_LP66107.jpg" group-title="MOTORSPORTS APRIL 27",3:30AM NASCAR Cup Series - Race
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://602.simpleabigal.xyz/nascar.m3u8
-
-#EXTINF:-1 tvg-id="Motorsport.tv" tvg-logo="https://images.squarespace-cdn.com/content/v1/619e9d0a3191f4308bcb0206/1703939911077-3MML6GVYOTU8NXV5UGJV/2024+Pfaff+Motorsports_driveway+McLaren+720S+GT3_Lenssen+Photo-_LP66107.jpg" group-title="MOTORSPORTS APRIL 26",7AM AMA Supercross - Heats & Races
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://602.simpleabigal.xyz/sx.m3u8
-
+https://602.shoncine.com/mlb3.m3u8
 
 
 
